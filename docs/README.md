@@ -19,7 +19,7 @@
 
 ## 近期更新
 
-- [2022-06-10] [申请总结] [18级-生物医学工程-王叶晗 MS @ NUS](grad-application/biomedical-engineering/[SG]-18-wangyehan.md)
+
 
 ## 飞跃手册是什么？
 

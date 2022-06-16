@@ -7,9 +7,10 @@
   - [学习](first-sight/study/README.md)
   - [生活](first-sight/life/README.md)
   
-- 个人总结（1）
+- 个人总结（2）
 
   - [计算机科学与技术学院 (1) ](personal-summary/cs/README.md)
+  - [公共管理学院 (1)](personal-summary/gongguan/README.md)	
   - [网络空间安全学院（密码学院）](personal-summary/cse/README.md)	
   - [经济学院](personal-summary/jingji/README.md)	
   - [法学院](personal-summary/law/README.md)	
@@ -32,8 +33,7 @@
   - [动物科技学院](personal-summary/dwkj/README.md)		
   - [林学院](personal-summary/linxue/README.md)		
   - [海洋学院](personal-summary/haiyang/README.md)		
-  - [管理学院](personal-summary/guanli/README.md)		
-  - [公共管理学院](personal-summary/gongguan/README.md)		
+  - [管理学院](personal-summary/guanli/README.md)			
   - [旅游学院](personal-summary/lvyou/README.md)		
   - [音乐与舞蹈学院](personal-summary/wudao/README.md)		
   - [美术与设计学院](personal-summary/mssj/README.md)		

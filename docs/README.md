@@ -19,7 +19,7 @@
 
 ## 近期更新
 
-- [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
+- [2022-06-16] [保研总结] [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
 
 
 ## 飞跃手册是什么？

@@ -4,7 +4,7 @@
 
 ### 1. Send a pull requst
 
-如果您熟悉git操作，可直接对[仓库](https://github.com/Hainanu-Application/Hainanu-Application.github.io)进行fork，并对的[`docs`](https://github.com/Hainanu-Application/Hainanu-Application.github.io/tree/main/docs)路径下的对应文件夹进行添加或者修改后，进行Pull Request，Merge后便即时上线。
+如果您熟悉git操作，可直接对[仓库](https://github.com/Hainanu-Application/Hainanu-Application.github.io)进行fork，并对[`docs`](https://github.com/Hainanu-Application/Hainanu-Application.github.io/tree/main/docs)路径下的对应文件夹进行添加或者修改后，进行Pull Request，Merge后便即时上线。
 
 ### 2. Contact with us
 

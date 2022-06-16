@@ -15,7 +15,7 @@
 
 ## 投稿/修改
 
-- 投稿/修改请联系 ***eilo.pengyq@gmail.com***
+- 投稿/修改请联系 ***eilo.pengyq@gmail.com***或者 ***solar1s@163.com***。
 
 ## 近期更新
 

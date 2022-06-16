@@ -8,7 +8,7 @@
 
 ### 2. Contact with us
 
-如果您对git操作不熟悉，可将写好的`word/markdown`发送至我们的邮箱*eilo.pengyq@gmail.com*，我们会帮助您上架。
+如果您对git操作不熟悉，可将写好的`word/markdown`发送至我们的邮箱* ***eilo.pengyq@gmail.com***或者 ***solar1s@163.com****，我们会帮助您上架。
 
 **PS：如果您能发送markdown格式的分享贴是最好的，这为我们节省了大量格式转换的时间，现在我们只需专注于修改、审核即可。markdown是一种神奇的语言，这种书写方式将会让您受益终身。**
 

@@ -1,6 +1,6 @@
 # 海南大学飞跃手册
 
-👋这里是海南大学飞跃手册，希望持续收录海南大学各院系同学不同出路的经验分享，愿尽力为海大学子每一年的求学求职道路提供指导。祝大家学业顺利，学有所成୧(๑•̀⌄•́๑)૭✧ 。
+👋 这里是海南大学飞跃手册，希望持续收录海南大学各院系同学不同出路的经验分享，愿尽力为海大学子每一年的求学求职道路提供指导。祝大家学业顺利，学有所成 ୧(๑•̀⌄•́๑)૭✧ 。
 
 ## 致谢
 
@@ -10,22 +10,21 @@
 ## 公告
 
 - **欢迎大家踊跃投稿！**只有广大校友共同贡献，才能使飞跃手册越来越好，支持**实名/匿名**投稿。
-- 海南大学飞跃手册始创于2022年6月。
+- 海南大学飞跃手册始创于 2022 年 6 月。
 - 如果您对飞跃手册有好一点的建议可以通过邮箱联系我们（联系邮箱在投稿/修改标题下），让我们一起完善飞跃手册！
 
 ## 投稿/修改
 
-- 投稿/修改请联系 ***eilo.pengyq@foxmail.com***或者 ***solar1s@163.com***。
+- 投稿/修改请联系 [**_eilo.pengyq@foxmail.com_**](mailto:eilo.pengyq@foxmail.com) 或者 [**_solar1s@163.com_**](mailto:solar1s@163.com)。
 
 ## 近期更新
 
 - [2022-06-17] [考研总结] [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)
-- [2022-06-17] [保研总结] [18-软件工程（niit）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
+- [2022-06-17] [保研总结] [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
 - [2022-06-17] [保研总结] [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md)
 - [2022-06-17] [保研总结] [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md)
 - [2022-06-16] [考研总结] [18-公共关系-方鸿渐-考研-@华东师范大学](personal-summary/gongguan/18-公共关系-方鸿渐-考研-@华东师范大学.md)
 - [2022-06-16] [保研总结] [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
-
 
 ## 飞跃手册是什么？
 
@@ -49,24 +48,22 @@
 
 ## 友情链接
 
-* [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments/)
+- [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments/)
 
-* [南方科技大学飞跃手册](https://sustech-application.com/#/)
+- [南方科技大学飞跃手册](https://sustech-application.com/#/)
 
-* [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
+- [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
 
-* [安徽大学飞跃手册](https://www.ahu.wiki/#/)
+- [安徽大学飞跃手册](https://www.ahu.wiki/#/)
 
-* 坚果钳留学信息分享平台\[微信公众号\]: Nutcracker2020 
+- 坚果钳留学信息分享平台\[微信公众号\]: Nutcracker2020
 
-* 商科申请论坛 https://www.chasedream.com/
+- 商科申请论坛 https://www.chasedream.com/
 
-* 一亩三分地--北美申请论坛 http://www.1point3acres.com/
+- 一亩三分地--北美申请论坛 http://www.1point3acres.com/
 
-* 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
+- 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
 
-* Grantome 美国教授科研经费查询 https://grantome.com/search
+- Grantome 美国教授科研经费查询 https://grantome.com/search
 
-* NIH 美国教授科研经费查询 https://report.nih.gov/ 
-
-  
+- NIH 美国教授科研经费查询 https://report.nih.gov/

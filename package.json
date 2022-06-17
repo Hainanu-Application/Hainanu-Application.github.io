@@ -1,0 +1,9 @@
+{
+  "name": "hainanu-application",
+  "scripts": {
+    "serve": "docsify serve docs"
+  },
+  "dependencies": {
+    "docsify-cli": "^4.4.4"
+  }
+}

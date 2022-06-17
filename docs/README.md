@@ -19,6 +19,7 @@
 
 ## 近期更新
 
+- [2022-06-17] [保研总结] [18-软件工程（niit）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
 - [2022-06-17] [保研总结] [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md)
 - [2022-06-17] [保研总结] [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md)
 - [2022-06-16] [考研总结] [18-公共关系-方鸿渐-考研-@华东师范大学](personal-summary/gongguan/18-公共关系-方鸿渐-考研-@华东师范大学.md)

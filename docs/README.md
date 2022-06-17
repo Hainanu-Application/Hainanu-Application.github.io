@@ -19,6 +19,7 @@
 
 ## 近期更新
 
+- [2022-06-17] [保研总结] [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md)
 - [2022-06-16] [考研总结] [18-公共关系-方鸿渐-考研-@华东师范大学](personal-summary/gongguan/18-公共关系-方鸿渐-考研-@华东师范大学.md)
 - [2022-06-16] [保研总结] [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
 

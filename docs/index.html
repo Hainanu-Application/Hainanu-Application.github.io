@@ -136,7 +136,13 @@
               dsq.setAttribute("data-lang", "zh-CN");
               dsq.setAttribute("data-loading", "lazy");
               dsq.setAttribute("crossorigin", "anonymous");
-              document.getElementById("main").appendChild(dsq);
+              // remove last iframe border
+              var iframe = document.getElementsByTagName("iframe");
+              iframe[iframe.length - 1].style.border = "none";
+              // append to last second
+              document
+                .getElementById("main")
+                .insertBefore(dsq, document.getElementById("main").lastChild);
             });
           },
         ],

@@ -41,10 +41,13 @@
       title="pure"
       disabled
     />
-    <link rel="stylesheet" href="src/css/docsify-darklight-theme.min.css">
+    <link rel="stylesheet" href="src/css/docsify-darklight-theme.min.css" />
     <style>
       nav.app-nav li ul {
         min-width: 100px;
+      }
+      .giscus iframe {
+        border: none;
       }
     </style>
   </head>
@@ -129,7 +132,8 @@
               dsq.setAttribute("data-repo-id", "R_kgDOHgffLg");
               dsq.setAttribute("data-category", "Announcements");
               dsq.setAttribute("data-category-id", "DIC_kwDOHgffLs4CPuiB");
-              dsq.setAttribute("data-mapping", "pathname");
+              dsq.setAttribute("data-mapping", "specific");
+              dsq.setAttribute("data-term", last_item);
               dsq.setAttribute("data-reactions-enabled", "1");
               dsq.setAttribute("data-emit-metadata", "0");
               dsq.setAttribute("data-input-position", "bottom");

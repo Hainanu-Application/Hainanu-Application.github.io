@@ -40,11 +40,17 @@
 
 希望这样的传统能够一直流传下去，去帮助未来更多海大学子实现飞跃梦想。
 
-### 如何分享经验？
+## 如何分享经验？
 
 飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
 
 - 分享教程和格式请查看[如何进行经验分享](about-contribution.md)
+
+## 贡献者
+
+<a href="https://github.com/Hainanu-Application/Hainanu-Application.github.io/graphs/contributors">
+  <br><img src="https://contributors-img.web.app/image?repo=Hainanu-Application/Hainanu-Application.github.io" />
+</a>
 
 ## 友情链接
 

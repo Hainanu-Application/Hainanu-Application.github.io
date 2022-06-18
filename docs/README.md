@@ -19,6 +19,8 @@
 
 ## 近期更新
 
+- [2022-06-18] [学习总结] [[计算机转专业学习计划]-19-计算机科学与技术-CSL](first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md)
+- [2022-06-18] [保研总结] [18-计算机科学与技术-DYC-保研-@USTC](personal-summary/cs/18-计算机科学与技术-DYC-保研-@USTC.md)
 - [2022-06-17] [考研总结] [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)
 - [2022-06-17] [保研总结] [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
 - [2022-06-17] [保研总结] [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md)

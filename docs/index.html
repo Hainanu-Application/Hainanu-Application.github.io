@@ -119,8 +119,22 @@
 
             hook.doneEach(function () {
               const path = vm.route.path === "/" ? "/README" : vm.route.path;
-              const path_split = path.split("/");
-              const last_item = path_split[path_split.length - 1];
+              // const path_split = path.split("/");
+              // const last_item = path_split[path_split.length - 1];
+
+              // console.log(path);
+              // console.log(path_split);
+              // console.log(last_item);
+
+              var theme =
+                getComputedStyle(document.body).getPropertyValue(
+                  "--toogleBackground"
+                ) === "#ffffff"
+                  ? "dark"
+                  : "light";
+
+              console.log(theme);
+
               var dsq = document.createElement("script");
               dsq.type = "text/javascript";
               dsq.async = true;
@@ -133,17 +147,17 @@
               dsq.setAttribute("data-category", "Announcements");
               dsq.setAttribute("data-category-id", "DIC_kwDOHgffLs4CPuiB");
               dsq.setAttribute("data-mapping", "specific");
-              dsq.setAttribute("data-term", last_item);
+              dsq.setAttribute("data-term", path);
               dsq.setAttribute("data-reactions-enabled", "1");
               dsq.setAttribute("data-emit-metadata", "0");
               dsq.setAttribute("data-input-position", "bottom");
-              dsq.setAttribute("data-theme", "light");
+              dsq.setAttribute("data-theme", theme);
               dsq.setAttribute("data-lang", "zh-CN");
               dsq.setAttribute("data-loading", "lazy");
               dsq.setAttribute("crossorigin", "anonymous");
               // remove last iframe border
               var iframes = document.getElementsByTagName("iframe");
-              console.log(iframes);
+              // console.log(iframes);
               // iframes[iframes.length - 1].style.border = "none";
               // append to last second
               document

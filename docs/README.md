@@ -62,21 +62,13 @@
 ## 友情链接
 
 - [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments/)
-
 - [南方科技大学飞跃手册](https://sustech-application.com/#/)
-
-- [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
-
 - [安徽大学飞跃手册](https://www.ahu.wiki/#/)
-
+- [上海交通大学飞跃手册](https://survivesjtu.github.io/SJTU-Application/#/)
+- [上海交通大学生存指南](https://survivesjtu.gitbook.io/survivesjtumanual/)
 - 坚果钳留学信息分享平台\[微信公众号\]: Nutcracker2020
-
 - 商科申请论坛 https://www.chasedream.com/
-
 - 一亩三分地--北美申请论坛 http://www.1point3acres.com/
-
 - 美国本土申请结果汇报论坛 https://www.thegradcafe.com/
-
 - Grantome 美国教授科研经费查询 https://grantome.com/search
-
 - NIH 美国教授科研经费查询 https://report.nih.gov/

@@ -39,21 +39,21 @@
 
 <center>神仙院草地音乐节</center>
 
-![img](http://a1.qpic.cn/psc?/V10DPE5h2YSCOu/ruAMsa53pVQWN7FLK88i5qhe709ThJSfm3o72GkZHKb9B.xf8w472MFEAQ.c1Swo*F4aNS7rEnaHCkib5UTxE2.jiuzUawKU9ZC2nbnaj0k!/c&ek=1&kp=1&pt=0&bo=QAZVCEAGVQgRECc!&tl=3&vuin=1538245416&tm=1655568000&dis_t=1655568436&dis_k=e3929c164fac74fa6aebc1b95206d099&sce=60-2-2&rf=viewer_311)
+![img](https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202206191019561.jpg)
 
 <center>神仙院免费宵夜</center>
 
-![img](http://a1.qpic.cn/psc?/V10DPE5h2YSCOu/ruAMsa53pVQWN7FLK88i5rWzP5jMMzgtA15zpEKR5zGi5udbENhPhWHtK7.GBclVSnVQZ5.hS6kiLPdEGhj3NkEa.uNBorY4eEShY3y164M!/c&ek=1&kp=1&pt=0&bo=VQhABlUIQAYRECc!&t=5&tl=3&vuin=1538245416&tm=1655568000&dis_t=1655568436&dis_k=6a213aba1f330312d93a973fb2612714&sce=60-2-2&rf=0-0)
+![img](https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202206191020574.jpg)
 
 <center>神仙院线上王者比赛（有奖金）</center>
 
-![img](http://a1.qpic.cn/psc?/V10DPE5h2YSCOu/ruAMsa53pVQWN7FLK88i5lY68jWQZKhA5NAjJEtuQmJP4kil7SXB3UDwo7nOFAJxrAid9Qb1ilfBzfTUeT7.FHwMhHxGNUtox*AbKXVO78E!/m&ek=1&kp=1&pt=0&bo=QgWlAUIFpQEDEDU!&tl=1&vuin=1538245416&tm=1655568000&dis_t=1655568436&dis_k=168ae7c2a3d5b68e05f470c1af286443&sce=60-4-3&rf=0-0)
+![img](https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202206191020018.png)
 
 <center>神仙院图书馆</center>
 
-![img](http://a1.qpic.cn/psc?/V10DPE5h2YSCOu/ruAMsa53pVQWN7FLK88i5g2ZCYT3dqVJUOqE.OyQPQQPI8B6.XDLJisz6AgLXoDt262z6SourwE78FbnrBans1ggbBRwPF1NyJcRut8GSMA!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYRECc!&t=5&tl=3&vuin=1538245416&tm=1655568000&dis_t=1655568436&dis_k=c8b563a16c910523119ff1b8e7535bd6&sce=60-4-3&rf=0-0)
+![img](https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202206191020447.jpg)
 
-![img](http://a1.qpic.cn/psc?/V10DPE5h2YSCOu/ruAMsa53pVQWN7FLK88i5rBHUb2*cz5do*E8UClzVjGZHADYFWgALUNWBB4wKaCynGW7oGOMiM9sSM0jTjdCqVDOHYdreZsd3ypOjaBYb0A!/m&ek=1&kp=1&pt=0&bo=VQhABlUIQAYRECc!&t=5&tl=3&vuin=1538245416&tm=1655568000&dis_t=1655568436&dis_k=13ff627c72b12df188471bf351c2a40e&sce=60-4-3&rf=0-0)
+![image-20220619102109198](https://cdn.jsdelivr.net/gh/peng-yq/Gallery/img/202206191021040.png)
 
 ​        每层工位都有咖啡机、微波炉、冰箱；每层两个小会议室；宿舍为2-3人间；工资平均在2600左右一个月，餐补为28元/工作日，加上硕士生国家补贴，读研期间每个月大概有3500-4000元，同时免学费免住宿费，保研的学生还可以每年多拿两千块钱；老师都比较好，基本没有什么坑导；图书馆跟大学城的属于一体，可以去大学城里借书（大学城里为清华深圳、北大深圳、哈工深）。
 

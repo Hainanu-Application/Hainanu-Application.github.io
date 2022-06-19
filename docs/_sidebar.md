@@ -7,9 +7,9 @@
 
   - [学习 (1)](first-sight/study/README.md)
   - [生活](first-sight/life/README.md)
-- 个人总结（8）
+- 个人总结（9）
 
-  - [计算机科学与技术学院 (4) ](personal-summary/cs/README.md)
+  - [计算机科学与技术学院 (5) ](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(2)](personal-summary/cse/README.md)
   - [信息与通信工程学院 (1)](personal-summary/sice/README.md)
   - [公共管理学院 (1)](personal-summary/gongguan/README.md)

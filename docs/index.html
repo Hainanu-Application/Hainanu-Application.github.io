@@ -1,89 +1,197 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>海南大学飞跃手册</title>
+    <link rel="icon" href="src/_media/favicon.ico" />
+    <meta
+      name="google-site-verification"
+      content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE"
+    />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta
+      name="keywords"
+      content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages"
+    />
+    <meta name="description" content="A magical documentation generator." />
+    <meta
+      name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="//lib.baomitu.com/docsify/4.12.2/themes/vue.css"
+      title="vue"
+    />
+    <link
+      rel="stylesheet"
+      href="//lib.baomitu.com/docsify/4.12.2/themes/dark.css"
+      title="dark"
+      disabled
+    />
+    <link
+      rel="stylesheet"
+      href="//lib.baomitu.com/docsify/4.12.2/themes/buble.css"
+      title="buble"
+      disabled
+    />
+    <link
+      rel="stylesheet"
+      href="//lib.baomitu.com/docsify/4.12.2/themes/pure.css"
+      title="pure"
+      disabled
+    />
+    <link rel="stylesheet" href="src/css/docsify-darklight-theme.min.css" />
+    <style>
+      nav.app-nav li ul {
+        min-width: 100px;
+      }
+      .giscus iframe {
+        border: none;
+      }
+    </style>
+  </head>
 
-<head>
-  <meta charset="UTF-8">
-  <title>海南大学飞跃手册</title>
-  <link rel="icon" href="src/_media/favicon.ico">
-  <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="keywords" content="doc,docs,documentation,gitbook,creator,generator,github,jekyll,github-pages">
-  <meta name="description" content="A magical documentation generator.">
-  <meta name="viewport"
-    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/vue.css" title="vue">
-  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/dark.css" title="dark" disabled>
-  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/buble.css" title="buble" disabled>
-  <link rel="stylesheet" href="//lib.baomitu.com/docsify/4.12.2/themes/pure.css" title="pure" disabled>
-  <style>
-    nav.app-nav li ul {
-      min-width: 100px;
-    }
-  </style>
-</head>
-
-<body>
-  <div id="app">Loading ...</div>
-  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
-  <script>
-    window.$docsify = {
-      alias: {
-        '.*?/awesome': 'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
-        '.*?/changelog': 'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md',
-        '/.*/_navbar.md': '/_navbar.md',
-        '/zh-cn/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-zh/master/$1',
-        '/de-de/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
-        '/ru/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1',
-        '/es/(.*)': 'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1'
-      },
-      auto2top: true,
-      coverpage: true,
-      executeScript: true,
-      loadSidebar: true,
-      loadNavbar: true,
-      mergeNavbar: true,
-      maxLevel: 4,
-      subMaxLevel: 2,
-      name: 'Hainanu Application',
-      search: {
-        noData: {
-          '/': '没有结果!',
+  <body>
+    <div id="app">Loading ...</div>
+    <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
+    <script>
+      window.$docsify = {
+        alias: {
+          ".*?/awesome":
+            "https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md",
+          ".*?/changelog":
+            "https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md",
+          "/.*/_navbar.md": "/_navbar.md",
+          "/zh-cn/(.*)":
+            "https://raw.githubusercontent.com/docsifyjs/docs-zh/master/$1",
+          "/de-de/(.*)":
+            "https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1",
+          "/ru/(.*)":
+            "https://raw.githubusercontent.com/docsifyjs/docs-ru/master/$1",
+          "/es/(.*)":
+            "https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1",
         },
-        paths: 'auto',
-        placeholder: {
-          '/': '搜索',
-        }
-      },
-      formatUpdated: '{MM}/{DD} {HH}:{mm}',
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (html) {
-            if (/githubusercontent\.com/.test(vm.route.file)) {
-              url = vm.route.file
-                .replace('raw.githubusercontent.com', 'github.com')
-                .replace(/\/master/, '/blob/master')
-            } else {
-              url = 'https://github.com/Hainanu-Application/Hainanu-Application.github.io/tree/main/docs' + vm.route.file
-            }
-            var editHtml = '[:memo: Edit Document](' + url + ')\n';
-            var year = new Date().getFullYear();
-
-            return editHtml
-              + html
-              + '\n\n----\n\n'
-              + '©  2022 - '+ year + ' 海南大学飞跃手册编委会. '
-              + '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
-          })
+        auto2top: true,
+        coverpage: true,
+        executeScript: true,
+        loadSidebar: true,
+        loadNavbar: true,
+        mergeNavbar: true,
+        maxLevel: 4,
+        subMaxLevel: 2,
+        name: "Hainanu Application",
+        search: {
+          noData: {
+            "/": "没有结果!",
+          },
+          paths: "auto",
+          placeholder: {
+            "/": "🔍搜索",
+          },
         },
-      ]
-    }
-  </script>
-  <script src="//lib.baomitu.com/docsify/4.12.2/docsify.min.js"></script>
-  <script src="//lib.baomitu.com/docsify/4.12.2/plugins/search.min.js"></script>
-  <script src="//lib.baomitu.com/docsify/4.12.2/plugins/ga.min.js"></script>
-  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-bash.min.js"></script>
-  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-markdown.min.js"></script>
-  <script src="//lib.baomitu.com/prism/1.28.0/components/prism-nginx.min.js"></script>
-</body>
+        ga: "G-1ZYG41ZXPD",
+        formatUpdated: "{MM}/{DD} {HH}:{mm}",
+        plugins: [
+          function (hook, vm) {
+            hook.beforeEach(function (html) {
+              if (/githubusercontent\.com/.test(vm.route.file)) {
+                url = vm.route.file
+                  .replace("raw.githubusercontent.com", "github.com")
+                  .replace(/\/master/, "/blob/master");
+              } else {
+                url =
+                  "https://github.com/Hainanu-Application/Hainanu-Application.github.io/tree/main/docs";
+              }
+              var editHtml = "[:memo: Edit Document](" + url + ")\n";
+              var year = new Date().getFullYear();
 
+              return (
+                editHtml +
+                html +
+                "\n\n----\n\n" +
+                "©  2022 - " +
+                year +
+                " 海南大学飞跃手册编委会. " +
+                '<a href="https://docsify.js.org" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Powered by docsify</a>.'
+              );
+            });
+
+            hook.doneEach(function () {
+              const path = vm.route.path === "/" ? "/README" : vm.route.path;
+              // const path_split = path.split("/");
+              // const last_item = path_split[path_split.length - 1];
+
+              // console.log(path);
+              // console.log(path_split);
+              // console.log(last_item);
+
+              var theme =
+                getComputedStyle(document.body).getPropertyValue(
+                  "--toogleBackground"
+                ) === "#ffffff"
+                  ? "dark"
+                  : "light";
+
+              // console.log(theme);
+
+              var dsq = document.createElement("script");
+              dsq.type = "text/javascript";
+              dsq.async = true;
+              dsq.setAttribute("src", "https://giscus.app/client.js");
+              dsq.setAttribute(
+                "data-repo",
+                "Hainanu-Application/Hainanu-Application.github.io"
+              );
+              dsq.setAttribute("data-repo-id", "R_kgDOHgffLg");
+              dsq.setAttribute("data-category", "Announcements");
+              dsq.setAttribute("data-category-id", "DIC_kwDOHgffLs4CPuiB");
+              dsq.setAttribute("data-mapping", "specific");
+              dsq.setAttribute("data-term", path);
+              dsq.setAttribute("data-reactions-enabled", "1");
+              dsq.setAttribute("data-emit-metadata", "0");
+              dsq.setAttribute("data-input-position", "bottom");
+              dsq.setAttribute("data-theme", theme);
+              dsq.setAttribute("data-lang", "zh-CN");
+              dsq.setAttribute("data-loading", "lazy");
+              dsq.setAttribute("crossorigin", "anonymous");
+              // remove last iframe border
+              var iframes = document.getElementsByTagName("iframe");
+              // console.log(iframes);
+              // iframes[iframes.length - 1].style.border = "none";
+              // append to last second
+              document
+                .getElementById("main")
+                .insertBefore(dsq, document.getElementById("main").lastChild);
+
+              document
+                .getElementById("docsify-darklight-theme")
+                .addEventListener("click", function () {
+                  var theme =
+                    getComputedStyle(document.body).getPropertyValue(
+                      "--toogleBackground"
+                    ) === "#ffffff"
+                      ? "dark"
+                      : "light";
+
+                  // console.log("listener", theme);
+                  var frame = document.querySelector(".giscus-frame");
+                  frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                  );
+                });
+            });
+          },
+        ],
+      };
+    </script>
+    <script src="src/js/docsify-darklight-theme.js"></script>
+    <script src="//lib.baomitu.com/docsify/4.12.2/docsify.min.js"></script>
+    <script src="//lib.baomitu.com/docsify/4.12.2/plugins/search.min.js"></script>
+    <script src="//lib.baomitu.com/docsify/4.12.2/plugins/ga.min.js"></script>
+    <script src="//lib.baomitu.com/prism/1.28.0/components/prism-bash.min.js"></script>
+    <script src="//lib.baomitu.com/prism/1.28.0/components/prism-markdown.min.js"></script>
+    <script src="//lib.baomitu.com/prism/1.28.0/components/prism-nginx.min.js"></script>
+  </body>
 </html>

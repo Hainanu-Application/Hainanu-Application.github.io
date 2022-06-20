@@ -62,8 +62,8 @@
 ## 贡献者
 
 <a href="https://github.com/Hainanu-Application/Hainanu-Application.github.io/graphs/contributors">
-  <br><img src="https://contributors-img.web.app/image?repo=Hainanu-Application/Hainanu-Application.github.io" />
-</a>
+  <br>
+<img src="https://contributors-img.web.app/image?repo=Hainanu-Application/Hainanu-Application.github.io" /></a>
 
 ## 友情链接
 

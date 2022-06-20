@@ -133,7 +133,7 @@
                   ? "dark"
                   : "light";
 
-              console.log(theme);
+              // console.log(theme);
 
               var dsq = document.createElement("script");
               dsq.type = "text/javascript";
@@ -163,6 +163,24 @@
               document
                 .getElementById("main")
                 .insertBefore(dsq, document.getElementById("main").lastChild);
+
+              document
+                .getElementById("docsify-darklight-theme")
+                .addEventListener("click", function () {
+                  var theme =
+                    getComputedStyle(document.body).getPropertyValue(
+                      "--toogleBackground"
+                    ) === "#ffffff"
+                      ? "dark"
+                      : "light";
+
+                  // console.log("listener", theme);
+                  var frame = document.querySelector(".giscus-frame");
+                  frame.contentWindow.postMessage(
+                    { giscus: { setConfig: { theme } } },
+                    "https://giscus.app"
+                  );
+                });
             });
           },
         ],

@@ -3,10 +3,12 @@
   - [致谢](preface/thanks/README.md)
   - [关于我们](preface/about/README.md)
   - [关于投稿](about-contribution.md)
+
 - 初入海大（2）
 
-  - [学习 (1)](first-sight/study/README.md)
+  - [学习 (2)](first-sight/study/README.md)
   - [生活 (1)](first-sight/life/README.md)
+
 - 个人总结（20）
 
   - [计算机科学与技术学院 (6) ](personal-summary/cs/README.md)
@@ -43,6 +45,7 @@
   - [体育学院](personal-summary/tyxy/README.md)
   - [药学院](personal-summary/yaoxue/README.md)
   - [农业农村学院](personal-summary/nync/README.md)
+
 - 国内外交流
   - [天大交换](exchange/tju-exchange/README.md)
   - [学期交流](exchange/semester-exchange/README.md)

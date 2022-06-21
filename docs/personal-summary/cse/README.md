@@ -23,3 +23,4 @@
 ### 思考/经验：
 
 - [在海大的个人成长——避雷这些事-n0vic3](personal-summary/cse/在海大的个人成长——避雷这些事-n0vic3.md)
+- [H学长的学习感悟](personal-summary/cse/H学长的学习感悟.md)

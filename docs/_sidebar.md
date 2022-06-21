@@ -12,7 +12,7 @@
 - 个人总结（20）
 
   - [计算机科学与技术学院 (6) ](personal-summary/cs/README.md)
-  - [网络空间安全学院（密码学院）(8)](personal-summary/cse/README.md)
+  - [网络空间安全学院（密码学院）(9)](personal-summary/cse/README.md)
   - [信息与通信工程学院 (3)](personal-summary/sice/README.md)
   - [食品科学与工程学院 (1)](personal-summary/shipin/README.md)
   - [公共管理学院 (1)](personal-summary/gongguan/README.md)

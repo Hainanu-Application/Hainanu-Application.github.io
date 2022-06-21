@@ -20,6 +20,7 @@
 
 ## 近期更新
 
+- [2022-06-22] [考研总结] [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.markdown)
 - [2022-06-21] [学习资源] [推免资源帖](first-sight/study/推免资源帖.md)
 - [2022-06-21] [考研总结] [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
 - [2022-06-21] [保研总结] [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)

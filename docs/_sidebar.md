@@ -9,7 +9,7 @@
   - [学习 (2)](first-sight/study/README.md)
   - [生活 (1)](first-sight/life/README.md)
 
-- 个人总结（20）
+- 个人总结（21）
 
   - [计算机科学与技术学院 (6) ](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(9)](personal-summary/cse/README.md)

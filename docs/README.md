@@ -20,6 +20,7 @@
 
 ## 近期更新
 
+- [2022-06-21] [保研总结] [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)
 - [2022-06-21] [保研总结] [18-食品质量与安全-两杯冰美式-保研-@上海交通大学](personal-summary/shipin/18-食品质量与安全-两杯冰美式-保研-@上海交通大学.md)
 - [2022-06-20] [就业总结] [18-信息安全-江雪雨-就业-@字节跳动](personal-summary/cse/18-信息安全-江雪雨-就业-@字节跳动.md)
 - [2022-06-20] [就业总结] [18-徐知鱼-就业-@Alibaba](personal-summary/guanli/18-徐知鱼-就业-@Alibaba.md)

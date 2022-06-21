@@ -7,11 +7,12 @@
 
   - [学习 (1)](first-sight/study/README.md)
   - [生活 (1)](first-sight/life/README.md)
-- 个人总结（17）
+- 个人总结（18）
 
   - [计算机科学与技术学院 (5) ](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(7)](personal-summary/cse/README.md)
   - [信息与通信工程学院 (3)](personal-summary/sice/README.md)
+  - [食品科学与工程学院 (1)](personal-summary/shipin/README.md)
   - [公共管理学院 (1)](personal-summary/gongguan/README.md)
   - [管理学院 (1)](personal-summary/guanli/README.md)
   - [经济学院](personal-summary/jingji/README.md)
@@ -27,7 +28,6 @@
   - [材料科学与工程学院](personal-summary/cailiao/README.md)
   - [土木建筑工程学院](personal-summary/huaxue/README.md)
   - [化学工程与技术学院](personal-summary/huaxue/README.md)
-  - [食品科学与工程学院](personal-summary/shipin/README.md)
   - [热带作物学院](personal-summary/rdzw/README.md)
   - [园艺学院](personal-summary/yuanyi/README.md)
   - [植物保护学院](personal-summary/zhibao/README.md)

@@ -1,5 +1,6 @@
-### To be continued...... <!-- {docsify-ignore-all} -->
+## 食品科学与工程学院 <!-- {docsify-ignore-all} -->
 
-- 欢迎分享！
-- 欢迎分享！
-- 欢迎分享！
+### 保研：
+
+- [18-食品质量与安全-两杯冰美式-保研-@上海交通大学](personal-summary/shipin/18-食品质量与安全-两杯冰美式-保研-@上海交通大学.md)
+

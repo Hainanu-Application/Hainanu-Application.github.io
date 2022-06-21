@@ -7,3 +7,7 @@
 - [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
 - [18-计算机科学与技术-DYC-保研-@USTC](personal-summary/cs/18-计算机科学与技术-DYC-保研-@USTC.md)
 - [18-网络工程-MRK-保研-@UCAS](personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md)
+
+### 考研：
+
+- [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)

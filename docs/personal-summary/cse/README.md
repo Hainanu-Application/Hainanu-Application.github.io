@@ -9,7 +9,7 @@
 ### 考研：
 
 - [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)
-- [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.markdown)
+- [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.md)
 
 ### 就业：
 

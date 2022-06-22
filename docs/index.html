@@ -118,11 +118,13 @@
             });
 
             hook.doneEach(function () {
-              const path = vm.route.path === "/" ? "/README" : vm.route.path;
-              // const path_split = path.split("/");
-              // const last_item = path_split[path_split.length - 1];
+              var path = vm.route.path === "/" ? "/README" : vm.route.path;
 
-              // console.log(path);
+              console.log(path);
+              // convert url to plain text
+              path = decodeURI(path);
+              console.log(path);
+
               // console.log(path_split);
               // console.log(last_item);
 

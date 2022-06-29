@@ -20,6 +20,8 @@
 
 ## 近期更新
 
+- [2022-06-29] [考研总结] [17-行政管理-王凯强-考研(初试篇)-@武汉大学](https://zhuanlan.zhihu.com/p/361687473?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
+- [2022-06-29] [考研总结] [17-行政管理-王凯强-考研(复试篇)-@武汉大学](https://zhuanlan.zhihu.com/p/450339848?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
 - [2022-06-29] [考研总结] [18-行政管理-早禾亭-考研-@中国社会科学院大学](personal-summary/gongguan/18-行政管理-早禾亭-考研-@中国社会科学院大学.md)
 - [2022-06-24] [初入海大] [欢迎来到海南大学-PYQ](welcome-to-hnu.md)
 - [2022-06-24] [考研总结] [18-金融-祝大家都上岸-考研-@合肥工业大学](personal-summary/jingji/18-金融-祝大家都上岸-考研-@合肥工业大学.md)

@@ -7,16 +7,16 @@
   - [欢迎来到海南大学](welcome-to-hnu.md)
   - [学习 (2)](first-sight/study/README.md)
   - [生活 (1)](first-sight/life/README.md)
-- 个人总结（31）
+- 个人总结（32）
 
   - [计算机科学与技术学院 (7) ](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(11)](personal-summary/cse/README.md)
   - [信息与通信工程学院 (4)](personal-summary/sice/README.md)
   - [公共管理学院 (4)](personal-summary/gongguan/README.md)
   - [食品科学与工程学院 (2)](personal-summary/shipin/README.md)
+  - [法学院 (2)](personal-summary/law/README.md)
   - [管理学院 (1)](personal-summary/guanli/README.md)
   - [经济学院 (1)](personal-summary/jingji/README.md)
-  - [法学院 (1)](personal-summary/law/README.md)
   - [马克思主义学院](personal-summary/mks/README.md)
   - [人文学院](personal-summary/renwen/README.md)
   - [外国语学院](personal-summary/waiguoyu/README.md)

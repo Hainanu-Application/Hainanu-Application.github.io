@@ -121,6 +121,19 @@ def generate_readme(data):
                 with open(os.path.join("docs", subtopic_url), "w", encoding="utf-8") as f:
                     f.write(_new_content)
 
+    # sort total items by date
+    total_item.sort(key=lambda x: x["date"], reverse=True)
+
+    readme_path = os.path.join(os.path.dirname(__file__), "docs", "README.md")
+    with open(readme_path, "r", encoding="utf-8") as f:
+        readme_content = f.read()
+    new_content = ""
+    for item in total_item:
+        new_content += f'- {get_markdown_url(item["title"], item["url"], date=item["date"], tag=item["tag"])}\n'
+    new_content = generate_new_readme(START_COMMENT, END_COMMENT, new_content, readme_content)
+    with open(readme_path, "w", encoding="utf-8") as f:
+        f.write(new_content)
+
 
 if __name__ == "__main__":
     posts = yaml.load(open("posts.yaml", encoding="utf-8"), Loader=yaml.FullLoader)

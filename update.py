@@ -2,8 +2,9 @@ import os
 import sys
 import time
 import yaml
+import re
 
-default_content = """
+DEFAULT_CONTENT = """
 ### To be continued...... <!-- {docsify-ignore-all} -->
 
 - 欢迎分享！
@@ -11,16 +12,27 @@ default_content = """
 - 欢迎分享！
 """
 
+START_COMMENT = "<!-- recent-update-start -->"
+END_COMMENT = "<!-- recent-update-end -->"
 
-def get_markdown_url(text: str, url: str, count: int = None):
-    if count:
-        if url:
-            return f"[{text}({count})]({url})"
-        return f"{text}({count})"
-    else:
-        if url:
-            return f"[{text}]({url})"
-        return f"{text}"
+
+def get_markdown_url(text: str, url: str, count: int = None, date=None, tag=None):
+    dt = "" if date is None else f"[{date}]"
+    tg = "" if tag is None else f"[{tag}]"
+    ct = "" if count is None or count == 0 else f"({count})"
+    if url:
+        return f"{dt}{tg}[{text}{ct}]({url})"
+    return f"{dt}{tg}{text}{ct}"
+
+
+def generate_new_readme(start_comment: str, end_comment: str, content: str, readme: str) -> str:
+    """Generate a new Readme.md"""
+    pattern = f"{start_comment}[\\s\\S]+{end_comment}"
+    repl = f"{start_comment}\n{content}\n{end_comment}"
+    if re.search(pattern, readme) is None:
+        print(f"can not find section in your readme, please check it, it should be {start_comment} and {end_comment}")
+
+    return re.sub(pattern, repl, readme)
 
 
 def generate_sidebar(data):
@@ -59,11 +71,55 @@ def generate_sidebar(data):
 
 
 def generate_readme(data):
-    pass
+    total_item = []
+    for topic_item in data:
+        if topic_item.get("links"):
+            for subtopic_item in topic_item.get("links"):
+                subtopic_title = subtopic_item["title"]
+                subtopic_url = subtopic_item["url"]
 
+                if not subtopic_url.endswith("README.md"):
+                    continue
 
-def update_recent_posts(data):
-    pass
+                with open(os.path.join("docs", subtopic_url), "r", encoding="utf-8") as f:
+                    subtopic_content = f.read()
+
+                new_content = ""
+                topic_list = {"none": []}
+
+                if subtopic_item.get("links"):
+                    for subsubtopic_item in subtopic_item.get("links"):
+                        subsubtopic_title = subsubtopic_item["title"]
+                        subsubtopic_url = subsubtopic_item["url"]
+                        subsubtopic_date = subsubtopic_item.get("date", "")
+                        subsubtopic_tag = subsubtopic_item.get("tag", "none")
+
+                        if subsubtopic_tag not in topic_list:
+                            topic_list[subsubtopic_tag] = []
+
+                        _item = {
+                            "title": subsubtopic_title,
+                            "url": subsubtopic_url,
+                            "date": subsubtopic_date,
+                            "tag": subsubtopic_tag,
+                        }
+                        topic_list[subsubtopic_tag].append(_item)
+                        total_item.append(_item)
+
+                for tag in topic_list:
+                    if tag == "none" or len(topic_list[tag]) == 0:
+                        continue
+                    new_content += f"### {tag}\n"
+                    for topic_item in topic_list[tag]:
+                        new_content += f'- {get_markdown_url(topic_item["title"], topic_item["url"])}\n'
+                    new_content += "\n"
+
+                if new_content and len(new_content.strip()) > 0:
+                    _new_content = generate_new_readme(START_COMMENT, END_COMMENT, new_content, subtopic_content)
+                else:
+                    _new_content = generate_new_readme(START_COMMENT, END_COMMENT, DEFAULT_CONTENT, subtopic_content)
+                with open(os.path.join("docs", subtopic_url), "w", encoding="utf-8") as f:
+                    f.write(_new_content)
 
 
 if __name__ == "__main__":
@@ -72,4 +128,3 @@ if __name__ == "__main__":
 
     generate_sidebar(posts)
     generate_readme(posts)
-    update_recent_posts(posts)

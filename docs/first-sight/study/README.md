@@ -7,7 +7,7 @@
 - 海大校内以及校外值得分享的学习去处
 - 考取其他证书的经验例如驾照、教资等
 
-### 近期更新：
+### 近期更新
 
-- [推免资源帖](first-sight/study/推免资源帖.md)
-- [[计算机转专业学习计划]-19-计算机科学与技术-CSL](first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md)
+<!-- recent-update-start -->
+<!-- recent-update-end -->

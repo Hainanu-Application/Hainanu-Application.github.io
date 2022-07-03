@@ -1,5 +1,6 @@
-### To be continued.......
+## 学期交流
 
-- 欢迎分享！
-- 欢迎分享！
-- 欢迎分享！
+### 近期更新
+
+<!-- recent-update-start -->
+<!-- recent-update-end -->

@@ -27,7 +27,7 @@
   - [生态与环境学院](personal-summary/sthj/README.md)
   - [机电工程学院](personal-summary/jidian/README.md)
   - [材料科学与工程学院](personal-summary/cailiao/README.md)
-  - [土木建筑工程学院](personal-summary/huaxue/README.md)
+  - [土木建筑工程学院](personal-summary/tujian/README.md)
   - [化学工程与技术学院](personal-summary/huaxue/README.md)
   - [热带作物学院](personal-summary/rdzw/README.md)
   - [园艺学院](personal-summary/yuanyi/README.md)

@@ -16,10 +16,12 @@ START_COMMENT = "<!-- recent-update-start -->"
 END_COMMENT = "<!-- recent-update-end -->"
 
 
-def get_markdown_url(text: str, url: str, count: int = None, date=None, tag=None):
-    dt = "" if date is None else f"[{date}]"
-    tg = "" if tag is None else f"[{tag}]"
+def get_markdown_url(text: str, url: str, count: int = None, date=None, tag=None, space=False):
+    sp = "" if space is False else " "
+    dt = "" if date is None else f"[{date}]{sp}"
+    tg = "" if tag is None else f"[{tag}]{sp}"
     ct = "" if count is None or count == 0 else f"({count})"
+
     if url:
         return f"{dt}{tg}[{text}{ct}]({url})"
     return f"{dt}{tg}{text}{ct}"
@@ -129,7 +131,9 @@ def generate_readme(data):
         readme_content = f.read()
     new_content = ""
     for item in total_item:
-        new_content += f'- {get_markdown_url(item["title"], item["url"], date=item["date"], tag=item["tag"])}\n'
+        new_content += (
+            f'- {get_markdown_url(item["title"], item["url"], date=item["date"], tag=item["tag"], space=True)}\n'
+        )
     new_content = generate_new_readme(START_COMMENT, END_COMMENT, new_content, readme_content)
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)

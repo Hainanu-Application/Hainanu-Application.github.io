@@ -1,6 +1,9 @@
 name: auto
 
-on: [push, pull_request]
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -10,8 +13,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
         with:
-          fetch-depth: 0
           ref: ${{ github.head_ref }}
+
+      - name: code repo Init
+        run: |
+          git config --global user.name "github action"
+          git config --global user.email "github@action.com"
 
       - name: Set up Python 3.x
         uses: actions/setup-python@v2
@@ -26,7 +33,8 @@ jobs:
       - name: Update dir
         run: python update.py
 
-      - name: Commit Updated
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Auto generate information
+      - name: Commit Changes
+        run: |
+          git add .
+          git commit -m"action:`date +'%Y-%m-%d'`"
+          git push origin github-page-docsify -f

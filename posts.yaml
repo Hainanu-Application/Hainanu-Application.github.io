@@ -73,6 +73,10 @@
           url: https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#
           date: "2022-06-21"
           tag: 个人总结
+        - title: "16-软件工程-李明-保研-@厦门大学"
+          url: personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md
+          date: "2022-07-04"
+          tag: 保研总结
 
     - title: 网络空间安全学院（密码学院）
       url: personal-summary/cse/README.md

@@ -10,6 +10,7 @@
 <!-- recent-update-start -->
 ### 学习资源
 - [推免资源帖](first-sight/study/推免资源帖.md)
+- [CS学习资源汇总](first-sight/study/CS学习资源.md)
 
 ### 学习总结
 - [[计算机转专业学习计划]-19-计算机科学与技术-CSL](first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md)

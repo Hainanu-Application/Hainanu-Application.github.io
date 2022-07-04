@@ -10,6 +10,7 @@
 | 2022-06-19 | 计算机科学与技术学院 | [18-网络工程-MRK-保研-@UCAS](personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md) |
 | 2022-06-21 | 计算机科学与技术学院 | [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn) |
 | 2022-06-21 | 计算机科学与技术学院 | [寻找我 面对我 成为我](https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#) |
+| 2022-07-04 | 计算机科学与技术学院 | [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md) |
 | 2022-06-17 | 网络空间安全学院（密码学院） | [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md) |
 | 2022-06-17 | 网络空间安全学院（密码学院） | [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu) |
 | 2022-06-19 | 网络空间安全学院（密码学院） | [18-信息安全-尹伊君-就业-@华软金盾](https://www.ljhyyj.ml/archives/2022-06-19-10-45-34) |

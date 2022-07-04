@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-07-04] [保研总结] [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考客观题的一些感悟](https://zhuanlan.zhihu.com/p/45610719?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考主观题的一些感悟](https://zhuanlan.zhihu.com/p/54068198)
 - [2022-07-03] [毕业现状] [13-植物保护-毕业五年后的现状](https://www.bilibili.com/video/BV1nY4y1n7NE)
@@ -40,7 +41,6 @@
 - [2022-06-21] [保研总结] [18-食品科学与工程-阿华田-保研-@中国海洋大学](personal-summary/shipin/18-食品科学与工程-阿华田-保研-@中国海洋大学.md)
 - [2022-06-20] [初入海大] [上一个“末流211”是一种什么感受-渺小而伟大](first-sight/life/上一个“末流211”是一种什么感受—渺小而伟大.md)
 - [2022-06-20] [保研总结] [18-信息安全-SaFOUND-保研-@SCU](personal-summary/cse/18-信息安全-SaFOUND-保研-@SCU.md)
-- [2022-06-20] [就业总结] [18-信息安全-江雪雨-就业-@字节跳动](personal-summary/cse/18-信息安全-江雪雨-就业-@字节跳动.md)
 
 <!-- recent-update-end -->
 

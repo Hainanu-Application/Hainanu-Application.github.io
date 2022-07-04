@@ -6,6 +6,15 @@
 
 如果您熟悉git操作，可直接对[仓库](https://github.com/Hainanu-Application/Hainanu-Application.github.io)进行fork，并对[`docs`](https://github.com/Hainanu-Application/Hainanu-Application.github.io/tree/main/docs)路径下的对应文件夹进行添加或者修改后，进行Pull Request，Merge后便即时上线。
 
+上传文件后，请修改 [`posts.yaml`](https://github.com/Hainanu-Application/Hainanu-Application.github.io/blob/main/posts.yaml) 中对应内容，例如在 `个人总结` 中 `计算机科学与技术学院` 的 `links` 内添加相应内容，模板如下：
+
+  ```yaml
+  - title:
+    url:
+    date:
+    tag:
+  ```
+
 ### 2. Contact with us
 
 如果您对git操作不熟悉，可将写好的`word/markdown`发送至我们的邮箱 ***eilo.pengyq@foxmail.com***或者 ***solar1s@163.com***，我们会帮助您上架。
@@ -19,14 +28,6 @@
 
 - 命名请按照**年级-专业-姓名/昵称/匿名-学习/保研/考研/出国/就业-@去向.word**或者**年级-专业-姓名/昵称/匿名-学习/保研/考研/出国/就业-@去向.md**的格式，例如`18-匿名-考研-@海南大学.md`。
 - **没有固定的书写格式和模板，能表达出自己的经验即可**，请注意分多**个小标题**进行书写。
-- 上传文件后，请修改 `posts.yaml` 中对应内容，例如在 `个人总结` 中 `计算机科学与技术学院` 的 `links` 内添加相应内容，模板如下：
-
-```yaml
-- title:
-  url:
-  date:
-  tag:
-```
 
 最后，祝前程似锦。
 

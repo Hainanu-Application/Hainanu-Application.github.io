@@ -41,24 +41,10 @@
 - [2022-06-20] [初入海大] [上一个“末流211”是一种什么感受-渺小而伟大](first-sight/life/上一个“末流211”是一种什么感受—渺小而伟大.md)
 - [2022-06-20] [保研总结] [18-信息安全-SaFOUND-保研-@SCU](personal-summary/cse/18-信息安全-SaFOUND-保研-@SCU.md)
 - [2022-06-20] [就业总结] [18-信息安全-江雪雨-就业-@字节跳动](personal-summary/cse/18-信息安全-江雪雨-就业-@字节跳动.md)
-- [2022-06-20] [保研总结] [17-通信工程-渺小而伟大-保研-@USTC](personal-summary/sice/17-通信工程-渺小而伟大-保研-@USTC.md)
-- [2022-06-20] [个人总结] [人在读大学时努力起来有多可怕-渺小而伟大](personal-summary/sice/人在读大学时努力起来有多可怕-渺小而伟大.md)
-- [2022-06-20] [就业总结] [18-徐知鱼-就业-@Alibaba](personal-summary/guanli/18-徐知鱼-就业-@Alibaba.md)
-- [2022-06-19] [保研总结] [18-网络工程-MRK-保研-@UCAS](personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md)
-- [2022-06-19] [就业总结] [18-信息安全-尹伊君-就业-@华软金盾](https://www.ljhyyj.ml/archives/2022-06-19-10-45-34)
-- [2022-06-19] [吐槽系列] [锐评海南大学网络空间安全学院（密码学院）和信息安全（密码学方向）-匿名](personal-summary/cse/锐评海南大学网络空间安全学院（密码学院）和密码学实验班-匿名.md)
-- [2022-06-19] [思考/经验] [在海大的个人成长——避雷这些事-n0vic3](personal-summary/cse/在海大的个人成长——避雷这些事-n0vic3.md)
-- [2022-06-18] [学习总结] [[计算机转专业学习计划]-19-计算机科学与技术-CSL](first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md)
-- [2022-06-18] [保研总结] [18-计算机科学与技术-DYC-保研-@USTC](personal-summary/cs/18-计算机科学与技术-DYC-保研-@USTC.md)
-- [2022-06-18] [保研总结] [18-通信工程-ZQ-保研-@HNU](personal-summary/sice/18-通信工程-ZQ-保研-@HNU)
-- [2022-06-17] [保研总结] [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md)
-- [2022-06-17] [保研总结] [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
-- [2022-06-17] [保研总结] [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md)
-- [2022-06-17] [考研总结] [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)
-- [2022-06-16] [保研总结] [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
-- [2022-06-16] [考研总结] [18-公共关系-方鸿渐-考研-@华东师范大学](personal-summary/gongguan/18-公共关系-方鸿渐-考研-@华东师范大学.md)
 
 <!-- recent-update-end -->
+
+全部文章列表：[个人总结](/personal-summary/README.md)
 
 ## 飞跃手册是什么？
 

@@ -38,7 +38,7 @@
           tag: 初入海大
 
 - title: 个人总结
-  url:
+  url: personal-summary/README.md
   count: true
   links:
     - title: 计算机科学与技术学院

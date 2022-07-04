@@ -1,14 +1,14 @@
-- 写在前面
+- **写在前面**
   - [致谢](preface/thanks/README.md)
   - [关于我们](preface/about/README.md)
   - [关于投稿](about-contribution.md)
 
-- 初入海大(3)
+- **初入海大(3)**
   - [欢迎来到海南大学](welcome-to-hnu.md)
   - [学习(2)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
-- 个人总结(33)
+- [**个人总结(33)**](personal-summary/README.md)
   - [计算机科学与技术学院(7)](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(11)](personal-summary/cse/README.md)
   - [信息与通信工程学院(4)](personal-summary/sice/README.md)
@@ -44,7 +44,7 @@
   - [药学院](personal-summary/yaoxue/README.md)
   - [体育学院](personal-summary/nync/README.md)
 
-- 国内外交流
+- **国内外交流**
   - [天大交换](exchange/tju-exchange/README.md)
   - [学期交流](exchange/semester-exchange/README.md)
   - [暑校](exchange/summer-exchange/README.md)

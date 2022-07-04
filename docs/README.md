@@ -44,7 +44,7 @@
 
 <!-- recent-update-end -->
 
-全部文章列表：[个人总结](/personal-summary/README.md)
+全部文章列表：[个人总结](personal-summary/README.md)
 
 ## 飞跃手册是什么？
 

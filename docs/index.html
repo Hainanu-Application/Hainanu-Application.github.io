@@ -118,7 +118,9 @@
             });
 
             hook.doneEach(function () {
-              var path = vm.route.path === "/" ? "/README" : vm.route.path;
+              var path = vm.route.path === "/" ? "/index" : vm.route.path;
+              // remove first '/'
+              path = path.substr(1);
 
               // console.log(path);
               // convert url to plain text

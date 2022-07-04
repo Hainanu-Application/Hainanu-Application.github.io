@@ -15,15 +15,15 @@ START_COMMENT = "<!-- recent-update-start -->"
 END_COMMENT = "<!-- recent-update-end -->"
 
 
-def get_markdown_url(text: str, url: str, count: int = None, date=None, tag=None, space=False):
+def get_markdown_url(text: str, url: str, count: int = None, date=None, tag=None, space=False, bold=False):
     sp = "" if space is False else " "
     dt = "" if date is None else f"[{date}]{sp}"
     tg = "" if tag is None else f"[{tag}]{sp}"
     ct = "" if count is None or count == 0 else f"({count})"
-
+    bd = "" if bold is False else "**"
     if url:
-        return f"{dt}{tg}[{text}{ct}]({url})"
-    return f"{dt}{tg}{text}{ct}"
+        return f"{dt}{tg}[{bd}{text}{ct}{bd}]({url})"
+    return f"{bd}{dt}{tg}{text}{ct}{bd}"
 
 
 def generate_new_readme(start_comment: str, end_comment: str, content: str, readme: str) -> str:
@@ -75,7 +75,7 @@ def generate_sidebar(data):
                 if topic_count is not None and subtopic_count is not None:
                     topic_count += subtopic_count
 
-        new_content = f"- {get_markdown_url(topic_title, topic_url, topic_count)}\n" + new_content
+        new_content = f"- {get_markdown_url(topic_title, topic_url, topic_count, bold=True)}\n" + new_content
 
         sidebar_f.write(f"{new_content}\n")
 

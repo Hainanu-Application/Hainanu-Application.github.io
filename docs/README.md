@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-07-06] [保研总结] [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)
 - [2022-07-04] [学习资源] [CS 学习资源](first-sight/study/CS学习资源.md)
 - [2022-07-04] [保研总结] [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考客观题的一些感悟](https://zhuanlan.zhihu.com/p/45610719?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
@@ -40,7 +41,6 @@
 - [2022-06-21] [思考/经验] [H学长的学习感悟](personal-summary/cse/H学长的学习感悟.md)
 - [2022-06-21] [保研总结] [18-食品质量与安全-两杯冰美式-保研-@上海交通大学](personal-summary/shipin/18-食品质量与安全-两杯冰美式-保研-@上海交通大学.md)
 - [2022-06-21] [保研总结] [18-食品科学与工程-阿华田-保研-@中国海洋大学](personal-summary/shipin/18-食品科学与工程-阿华田-保研-@中国海洋大学.md)
-- [2022-06-20] [初入海大] [上一个“末流211”是一种什么感受-渺小而伟大](first-sight/life/上一个“末流211”是一种什么感受—渺小而伟大.md)
 
 <!-- recent-update-end -->
 

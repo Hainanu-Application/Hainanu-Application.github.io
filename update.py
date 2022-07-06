@@ -162,8 +162,8 @@ def generate_readme(data):
     with open(readme_path, "w", encoding="utf-8") as f:
         f.write(new_content)
 
-    # sort personal summary items by school
-    # personal_summary_item.sort(key=lambda x: x["school"], reverse=True)
+    # sort personal summary items by date
+    personal_summary_item.sort(key=lambda x: x["date"], reverse=True)
     readme_path = os.path.join(os.path.dirname(__file__), "docs", "personal-summary/README.md")
     with open(readme_path, "r", encoding="utf-8") as f:
         readme_content = f.read()

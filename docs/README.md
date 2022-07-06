@@ -21,7 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
-- [2022-07-04] [学习资源] [CS学习资源](first-sight/study/CS学习资源.md)
+- [2022-07-04] [学习资源] [CS 学习资源](first-sight/study/CS学习资源.md)
 - [2022-07-04] [保研总结] [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考客观题的一些感悟](https://zhuanlan.zhihu.com/p/45610719?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考主观题的一些感悟](https://zhuanlan.zhihu.com/p/54068198)

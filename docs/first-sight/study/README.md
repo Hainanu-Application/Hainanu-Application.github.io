@@ -9,7 +9,7 @@
 
 <!-- recent-update-start -->
 ### 学习资源
-- [CS学习资源](first-sight/study/CS学习资源.md)
+- [CS 学习资源](first-sight/study/CS学习资源.md)
 - [推免资源帖](first-sight/study/推免资源帖.md)
 
 ### 学习总结

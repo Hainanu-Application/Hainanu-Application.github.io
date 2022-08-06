@@ -1,11 +1,8 @@
 ## 旅游学院
 
 <!-- recent-update-start -->
+### 毕业现状
+- [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS)
 
-### To be continued...... <!-- {docsify-ignore-all} -->
-
-- 欢迎分享！
-- 欢迎分享！
-- 欢迎分享！
 
 <!-- recent-update-end -->

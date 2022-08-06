@@ -230,6 +230,15 @@
           date: "2022-07-03"
           tag: 毕业现状
 
+    - title: 旅游学院
+      url: personal-summary/lvyou/README.md
+      count: true
+      links:
+        - title: 旅游管理，毕业4年的不同人生
+          url: https://www.bilibili.com/video/BV17U4y1v7MS
+          date: "2022-08-07"
+          tag: 毕业现状
+
     - title: 马克思主义学院
       url: personal-summary/mks/README.md
       count: true
@@ -292,10 +301,6 @@
       links:
     - title: 海洋学院
       url: personal-summary/haiyang/README.md
-      count: true
-      links:
-    - title: 旅游学院
-      url: personal-summary/lvyou/README.md
       count: true
       links:
     - title: 音乐与舞蹈学院

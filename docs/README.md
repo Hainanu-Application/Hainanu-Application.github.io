@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [2022-08-07] [毕业现状] [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS)
 - [2022-07-06] [保研总结] [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)
 - [2022-07-04] [学习资源] [CS 学习资源](first-sight/study/CS学习资源.md)
@@ -40,7 +41,6 @@
 - [2022-06-21] [保研总结] [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)
 - [2022-06-21] [考研总结] [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.md)
 - [2022-06-21] [思考/经验] [H学长的学习感悟](personal-summary/cse/H学长的学习感悟.md)
-- [2022-06-21] [保研总结] [18-食品质量与安全-两杯冰美式-保研-@上海交通大学](personal-summary/shipin/18-食品质量与安全-两杯冰美式-保研-@上海交通大学.md)
 
 <!-- recent-update-end -->
 

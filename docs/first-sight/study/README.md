@@ -9,6 +9,7 @@
 
 <!-- recent-update-start -->
 ### 学习资源
+- [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [CS 学习资源](first-sight/study/CS学习资源.md)
 - [推免资源帖](first-sight/study/推免资源帖.md)
 

@@ -21,7 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
-- [2022-8-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
+- [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
 - [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [2022-08-07] [毕业现状] [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS)
 - [2022-07-06] [保研总结] [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)

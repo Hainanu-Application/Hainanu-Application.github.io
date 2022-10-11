@@ -21,6 +21,8 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-10-11] [CS 学习资源] [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
+- [2022-10-11] [保研总结] [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md)
 - [2022-10-10] [保研总结] [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
 - [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
 - [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
@@ -39,8 +41,6 @@
 - [2022-06-23] [考研总结] [18-通信工程-阿飞-考研-@苏州大学](https://zhuanlan.zhihu.com/p/492633325)
 - [2022-06-21] [学习资源] [推免资源帖](first-sight/study/推免资源帖.md)
 - [2022-06-21] [考研总结] [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
-- [2022-06-21] [个人总结] [寻找我 面对我 成为我](https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#)
-- [2022-06-21] [保研总结] [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)
 
 <!-- recent-update-end -->
 

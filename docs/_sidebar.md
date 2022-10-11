@@ -3,15 +3,15 @@
   - [关于我们](preface/about/README.md)
   - [关于投稿](about-contribution.md)
 
-- **初入海大(5)**
+- **初入海大(6)**
   - [欢迎来到海南大学](welcome-to-hnu.md)
-  - [学习(4)](first-sight/study/README.md)
+  - [学习(5)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
-- [**个人总结(38)**](personal-summary/README.md)
+- [**个人总结(39)**](personal-summary/README.md)
   - [计算机科学与技术学院(9)](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(12)](personal-summary/cse/README.md)
-  - [信息与通信工程学院(4)](personal-summary/sice/README.md)
+  - [信息与通信工程学院(5)](personal-summary/sice/README.md)
   - [公共管理学院(4)](personal-summary/gongguan/README.md)
   - [食品科学与工程学院(2)](personal-summary/shipin/README.md)
   - [法学院(3)](personal-summary/law/README.md)

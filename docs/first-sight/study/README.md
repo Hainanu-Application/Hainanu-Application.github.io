@@ -8,6 +8,9 @@
 - 考取其他证书的经验例如驾照、教资等
 
 <!-- recent-update-start -->
+### CS 学习资源
+- [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
+
 ### 学习资源
 - [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [CS 学习资源](first-sight/study/CS学习资源.md)

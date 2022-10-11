@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2022-10-11 | 信息与通信工程学院 | [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md) |
 | 2022-10-10 | 计算机科学与技术学院 | [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A) |
 | 2022-08-23 | 网络空间安全学院（密码学院） | [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md) |
 | 2022-08-07 | 旅游学院 | [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS) |
@@ -34,7 +35,7 @@
 | 2022-06-19 | 网络空间安全学院（密码学院） | [锐评海南大学网络空间安全学院（密码学院）和信息安全（密码学方向）-匿名](personal-summary/cse/锐评海南大学网络空间安全学院（密码学院）和密码学实验班-匿名.md) |
 | 2022-06-19 | 网络空间安全学院（密码学院） | [在海大的个人成长——避雷这些事-n0vic3](personal-summary/cse/在海大的个人成长——避雷这些事-n0vic3.md) |
 | 2022-06-18 | 计算机科学与技术学院 | [18-计算机科学与技术-DYC-保研-@USTC](personal-summary/cs/18-计算机科学与技术-DYC-保研-@USTC.md) |
-| 2022-06-18 | 信息与通信工程学院 | [18-通信工程-ZQ-保研-@HNU](personal-summary/sice/18-通信工程-ZQ-保研-@HNU) |
+| 2022-06-18 | 信息与通信工程学院 | [18-通信工程-ZQ-保研-@HNU](personal-summary/sice/18-通信工程-ZQ-保研-@HNU.md) |
 | 2022-06-17 | 计算机科学与技术学院 | [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md) |
 | 2022-06-17 | 计算机科学与技术学院 | [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/) |
 | 2022-06-17 | 网络空间安全学院（密码学院） | [18-信息安全（密码学方向）-Solar1s-保研-@seu](personal-summary/cse/18-信息安全（密码学方向）-Solar1s-保研-@seu.md) |

@@ -2,7 +2,8 @@
 
 <!-- recent-update-start -->
 ### 保研总结
-- [18-通信工程-ZQ-保研-@HNU](personal-summary/sice/18-通信工程-ZQ-保研-@HNU)
+- [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md)
+- [18-通信工程-ZQ-保研-@HNU](personal-summary/sice/18-通信工程-ZQ-保研-@HNU.md)
 - [17-通信工程-渺小而伟大-保研-@USTC](personal-summary/sice/17-通信工程-渺小而伟大-保研-@USTC.md)
 
 ### 个人总结

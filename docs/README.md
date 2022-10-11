@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-10-10] [保研总结] [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
 - [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
 - [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [2022-08-07] [毕业现状] [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS)
@@ -40,7 +41,6 @@
 - [2022-06-21] [考研总结] [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
 - [2022-06-21] [个人总结] [寻找我 面对我 成为我](https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#)
 - [2022-06-21] [保研总结] [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)
-- [2022-06-21] [考研总结] [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.md)
 
 <!-- recent-update-end -->
 

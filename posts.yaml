@@ -20,6 +20,10 @@
       url: first-sight/study/README.md
       count: true
       links:
+        - title: "hai-AcWing算法学习计划"
+          url: first-sight/study/hai-AcWing算法学习计划.md
+          date: "2022-10-11"
+          tag: "CS 学习资源"
         - title: "ACCA卓越班（2022年秋季）联合招收海南大学在校学生"
           url: https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm
           date: "2022-08-11"
@@ -143,8 +147,12 @@
       url: personal-summary/sice/README.md
       count: true
       links:
+        - title: 19-电子信息工程-LS-保研-@UESTC
+          url: personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md
+          date: "2022-10-11"
+          tag: 保研总结
         - title: 18-通信工程-ZQ-保研-@HNU
-          url: personal-summary/sice/18-通信工程-ZQ-保研-@HNU
+          url: personal-summary/sice/18-通信工程-ZQ-保研-@HNU.md
           date: "2022-06-18"
           tag: 保研总结
         - title: 17-通信工程-渺小而伟大-保研-@USTC

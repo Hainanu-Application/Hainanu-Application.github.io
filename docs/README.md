@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-10-24] [保研总结] [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md)
 - [2022-10-11] [CS 学习资源] [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
 - [2022-10-11] [保研总结] [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md)
 - [2022-10-10] [保研总结] [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
@@ -40,7 +41,6 @@
 - [2022-06-24] [考研总结] [18-金融-祝大家都上岸-考研-@合肥工业大学](personal-summary/jingji/18-金融-祝大家都上岸-考研-@合肥工业大学.md)
 - [2022-06-23] [考研总结] [18-通信工程-阿飞-考研-@苏州大学](https://zhuanlan.zhihu.com/p/492633325)
 - [2022-06-21] [学习资源] [推免资源帖](first-sight/study/推免资源帖.md)
-- [2022-06-21] [考研总结] [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
 
 <!-- recent-update-end -->
 

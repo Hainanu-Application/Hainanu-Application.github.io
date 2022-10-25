@@ -1,11 +1,8 @@
-## 外国语学院
+## 外国语学院 <!-- {docsify-ignore-all} -->
 
 <!-- recent-update-start -->
+### 保研总结
+- [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md)
 
-### To be continued...... <!-- {docsify-ignore-all} -->
-
-- 欢迎分享！
-- 欢迎分享！
-- 欢迎分享！
 
 <!-- recent-update-end -->

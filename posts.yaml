@@ -263,16 +263,21 @@
           date: "2022-08-07"
           tag: 毕业现状
 
+    - title: 外国语学院
+      url: personal-summary/waiguoyu/README.md
+      count: true
+      links:
+        - title: 19-英语-F91fan-保研@CCNU
+          url: personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md
+          date: "2022-10-24"
+          tag: 保研总结
+
     - title: 马克思主义学院
       url: personal-summary/mks/README.md
       count: true
       links:
     - title: 人文学院
       url: personal-summary/renwen/README.md
-      count: true
-      links:
-    - title: 外国语学院
-      url: personal-summary/waiguoyu/README.md
       count: true
       links:
     - title: 理学院

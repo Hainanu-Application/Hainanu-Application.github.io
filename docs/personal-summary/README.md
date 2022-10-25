@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2022-10-24 | 外国语学院 | [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md) |
 | 2022-10-11 | 信息与通信工程学院 | [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md) |
 | 2022-10-10 | 计算机科学与技术学院 | [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A) |
 | 2022-08-23 | 网络空间安全学院（密码学院） | [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md) |

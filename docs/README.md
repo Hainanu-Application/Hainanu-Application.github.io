@@ -21,6 +21,9 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
+- [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
+- [2022-10-31] [天大交换] [19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析](https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-25] [保研总结] [19-食品质量与安全-黎文凯-保研-@浙江大学](personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md)
 - [2022-10-24] [保研总结] [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md)
 - [2022-10-11] [CS 学习资源] [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
@@ -38,9 +41,6 @@
 - [2022-06-30] [保研总结] [18-信息安全（密码学方向）-zgg-保研-@FDU](personal-summary/cse/18-信息安全（密码学方向）-zgg-保研-@fdu.md)
 - [2022-06-29] [考研总结] [18-行政管理-早禾亭-考研-@中国社会科学院大学](personal-summary/gongguan/18-行政管理-早禾亭-考研-@中国社会科学院大学.md)
 - [2022-06-29] [考研总结] [17-行政管理-王凯强-考研(复试篇)-@武汉大学](https://zhuanlan.zhihu.com/p/450339848?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
-- [2022-06-29] [考研总结] [17-行政管理-王凯强-考研(初试篇)-@武汉大学](https://zhuanlan.zhihu.com/p/361687473?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
-- [2022-06-24] [考研总结] [18-金融-祝大家都上岸-考研-@合肥工业大学](personal-summary/jingji/18-金融-祝大家都上岸-考研-@合肥工业大学.md)
-- [2022-06-23] [考研总结] [18-通信工程-阿飞-考研-@苏州大学](https://zhuanlan.zhihu.com/p/492633325)
 
 <!-- recent-update-end -->
 

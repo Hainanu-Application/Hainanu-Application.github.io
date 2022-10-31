@@ -40,6 +40,10 @@
           url: first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md
           date: "2022-06-18"
           tag: 学习总结
+        - title: "19-环境科学-无敌美少狗-高数满分攻略"
+          url: https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d
+          date: "2022-10-31"
+          tag: 学习总结
     - title: 生活
       url: first-sight/life/README.md
       count: true
@@ -272,6 +276,15 @@
           date: "2022-10-24"
           tag: 保研总结
 
+    - title: 生态与环境学院
+      url: personal-summary/sthj/README.md
+      count: true
+      links:
+        - title: 19-环境科学-无敌美少狗-保研@北京大学
+          url: https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d
+          date: "2022-10-31"
+          tag: 保研总结
+
     - title: 马克思主义学院
       url: personal-summary/mks/README.md
       count: true
@@ -290,10 +303,6 @@
       links:
     - title: 生物医学工程学院
       url: personal-summary/shengyi/README.md
-      count: true
-      links:
-    - title: 生态与环境学院
-      url: personal-summary/sthj/README.md
       count: true
       links:
     - title: 机电工程学院
@@ -372,6 +381,10 @@
       url: exchange/tju-exchange/README.md
       count: true
       links:
+        - title: 19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析
+          url: https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d
+          date: "2022-10-31"
+          tag: 天大交换
     - title: 学期交流
       url: exchange/semester-exchange/README.md
       count: true

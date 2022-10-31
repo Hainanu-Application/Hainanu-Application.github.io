@@ -18,6 +18,7 @@
 
 ### 学习总结
 - [[计算机转专业学习计划]-19-计算机科学与技术-CSL](first-sight/study/[计算机转专业学习计划]-19-计算机科学与技术-CSL.md)
+- [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 
 
 <!-- recent-update-end -->

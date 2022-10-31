@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2022-10-31 | 生态与环境学院 | [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d) |
 | 2022-10-25 | 食品科学与工程学院 | [19-食品质量与安全-黎文凯-保研-@浙江大学](personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md) |
 | 2022-10-24 | 外国语学院 | [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md) |
 | 2022-10-11 | 信息与通信工程学院 | [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md) |

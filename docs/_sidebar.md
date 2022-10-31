@@ -3,12 +3,12 @@
   - [关于我们](preface/about/README.md)
   - [关于投稿](about-contribution.md)
 
-- **初入海大(6)**
+- **初入海大(7)**
   - [欢迎来到海南大学](welcome-to-hnu.md)
-  - [学习(5)](first-sight/study/README.md)
+  - [学习(6)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
-- [**个人总结(41)**](personal-summary/README.md)
+- [**个人总结(42)**](personal-summary/README.md)
   - [计算机科学与技术学院(9)](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(12)](personal-summary/cse/README.md)
   - [信息与通信工程学院(5)](personal-summary/sice/README.md)
@@ -20,12 +20,12 @@
   - [植物保护学院(1)](personal-summary/zhibao/README.md)
   - [旅游学院(1)](personal-summary/lvyou/README.md)
   - [外国语学院(1)](personal-summary/waiguoyu/README.md)
+  - [生态与环境学院(1)](personal-summary/sthj/README.md)
   - [马克思主义学院](personal-summary/mks/README.md)
   - [人文学院](personal-summary/renwen/README.md)
   - [理学院](personal-summary/lixue/README.md)
   - [生命科学学院](personal-summary/smkx/README.md)
   - [生物医学工程学院](personal-summary/shengyi/README.md)
-  - [生态与环境学院](personal-summary/sthj/README.md)
   - [机电工程学院](personal-summary/jidian/README.md)
   - [材料科学与工程学院](personal-summary/cailiao/README.md)
   - [土木建筑工程学院](personal-summary/tujian/README.md)
@@ -45,7 +45,7 @@
   - [体育学院](personal-summary/nync/README.md)
 
 - **国内外交流**
-  - [天大交换](exchange/tju-exchange/README.md)
+  - [天大交换(1)](exchange/tju-exchange/README.md)
   - [学期交流](exchange/semester-exchange/README.md)
   - [暑校](exchange/summer-exchange/README.md)
   - [暑研](exchange/research-exchange/README.md)

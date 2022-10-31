@@ -44,7 +44,7 @@
   - [药学院](personal-summary/yaoxue/README.md)
   - [体育学院](personal-summary/nync/README.md)
 
-- **国内外交流**
+- **国内外交流(1)**
   - [天大交换(1)](exchange/tju-exchange/README.md)
   - [学期交流](exchange/semester-exchange/README.md)
   - [暑校](exchange/summer-exchange/README.md)

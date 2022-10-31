@@ -376,6 +376,7 @@
 
 - title: 国内外交流
   url:
+  count: true
   links:
     - title: 天大交换
       url: exchange/tju-exchange/README.md

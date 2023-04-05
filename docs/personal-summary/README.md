@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2023-04-05 | 网络空间安全学院（密码学院） | [19-信息安全（密码学方向）-plucky-考研-@HUST.md](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md) |
 | 2022-10-31 | 生态与环境学院 | [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d) |
 | 2022-10-25 | 食品科学与工程学院 | [19-食品质量与安全-黎文凯-保研-@浙江大学](personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md) |
 | 2022-10-24 | 外国语学院 | [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md) |

@@ -42,7 +42,6 @@
   - [国际教育学院](personal-summary/gjjy/README.md)
   - [体育学院](personal-summary/tyxy/README.md)
   - [药学院](personal-summary/yaoxue/README.md)
-  - [体育学院](personal-summary/nync/README.md)
 
 - **国内外交流(1)**
   - [天大交换(1)](exchange/tju-exchange/README.md)

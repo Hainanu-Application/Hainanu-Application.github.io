@@ -146,10 +146,14 @@
           url: personal-summary/cse/18-信息安全（密码学方向）-zgg-保研-@fdu.md
           date: "2022-06-30"
           tag: 保研总结
-        - title: 18-信息安全（密码学方向）-xgg-保研-@zju.md
+        - title: 18-信息安全（密码学方向）-xgg-保研-@zju
           url: personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md
           date: "2022-08-23"
           tag: 保研总结
+        - title: 19-信息安全（密码学方向）-plucky-考研-@HUST
+          url: personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md
+          date: "2023-04-05"
+          tag: 考研总结 
 
     - title: 信息与通信工程学院
       url: personal-summary/sice/README.md

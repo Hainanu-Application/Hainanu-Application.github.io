@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 - [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-31] [天大交换] [19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析](https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
@@ -29,7 +30,7 @@
 - [2022-10-11] [CS 学习资源] [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
 - [2022-10-11] [保研总结] [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md)
 - [2022-10-10] [保研总结] [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
-- [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju.md](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
+- [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
 - [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 - [2022-08-07] [毕业现状] [旅游管理，毕业4年的不同人生](https://www.bilibili.com/video/BV17U4y1v7MS)
 - [2022-07-06] [保研总结] [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)
@@ -40,7 +41,6 @@
 - [2022-07-03] [毕业现状] [13-植物保护-毕业五年后的现状](https://www.bilibili.com/video/BV1nY4y1n7NE)
 - [2022-06-30] [保研总结] [18-信息安全（密码学方向）-zgg-保研-@FDU](personal-summary/cse/18-信息安全（密码学方向）-zgg-保研-@fdu.md)
 - [2022-06-29] [考研总结] [18-行政管理-早禾亭-考研-@中国社会科学院大学](personal-summary/gongguan/18-行政管理-早禾亭-考研-@中国社会科学院大学.md)
-- [2022-06-29] [考研总结] [17-行政管理-王凯强-考研(复试篇)-@武汉大学](https://zhuanlan.zhihu.com/p/450339848?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
 
 <!-- recent-update-end -->
 

@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
 - [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 - [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
@@ -40,7 +41,6 @@
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考主观题的一些感悟](https://zhuanlan.zhihu.com/p/54068198)
 - [2022-07-03] [毕业现状] [13-植物保护-毕业五年后的现状](https://www.bilibili.com/video/BV1nY4y1n7NE)
 - [2022-06-30] [保研总结] [18-信息安全（密码学方向）-zgg-保研-@FDU](personal-summary/cse/18-信息安全（密码学方向）-zgg-保研-@fdu.md)
-- [2022-06-29] [考研总结] [18-行政管理-早禾亭-考研-@中国社会科学院大学](personal-summary/gongguan/18-行政管理-早禾亭-考研-@中国社会科学院大学.md)
 
 <!-- recent-update-end -->
 

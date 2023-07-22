@@ -14,7 +14,7 @@
 - [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 
 ### 就业总结
-- [18-信息安全-尹伊君-就业-@华软金盾](https://www.ljhyyj.ml/archives/2022-06-19-10-45-34)
+- [18-信息安全-尹伊君-就业-@华软金盾](https://ljhyyj.com/archives/2022-06-19-10-45-34)
 - [18-信息安全-江雪雨-就业-@字节跳动](personal-summary/cse/18-信息安全-江雪雨-就业-@字节跳动.md)
 
 ### 吐槽系列

@@ -22,6 +22,7 @@
 
 <!-- recent-update-start -->
 - [2023-08-02] [考研总结] [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md)
+- [2023-08-02] [考研总结] [19-动科-xzy-跨考（计算机）-@武汉理工大学](personal-summary/dwkj/19-动科-xzy-跨考-计算机-@武汉理工大学.md)
 - [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
 - [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 - [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
@@ -40,7 +41,6 @@
 - [2022-07-04] [保研总结] [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考客观题的一些感悟](https://zhuanlan.zhihu.com/p/45610719?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
 - [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考主观题的一些感悟](https://zhuanlan.zhihu.com/p/54068198)
-- [2022-07-03] [毕业现状] [13-植物保护-毕业五年后的现状](https://www.bilibili.com/video/BV1nY4y1n7NE)
 
 <!-- recent-update-end -->
 

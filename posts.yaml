@@ -309,6 +309,10 @@
           url: personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md
           date: "2023-08-02"
           tag: 考研总结
+        - title: 18-数学与应用数学-ly-跨考应用经济学专业-@北工商
+          url: personal-summary/lixue/18-数学与应用数学-ly-跨考应用经济学专业-@北工商.md
+          date: "2023-08-03"
+          tag: 考研总结
       
     - title: 生命科学学院
       url: personal-summary/smkx/README.md
@@ -326,6 +330,10 @@
       url: personal-summary/cailiao/README.md
       count: true
       links:
+        - title: 19-材料科学与工程-卓昊-考研-@中山大学
+          url: personal-summary/cailiao/19-材料科学与工程-卓昊-考研-@中山大学.md
+          date: "2023-08-03"
+          tag: 考研总结
     - title: 土木建筑工程学院
       url: personal-summary/tujian/README.md
       count: true

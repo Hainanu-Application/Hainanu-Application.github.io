@@ -21,6 +21,8 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2023-08-03] [考研总结] [18-数学与应用数学-ly-跨考应用经济学专业-@北工商](personal-summary/lixue/18-数学与应用数学-ly-跨考应用经济学专业-@北工商.md)
+- [2023-08-03] [考研总结] [19-材料科学与工程-卓昊-考研-@中山大学](personal-summary/cailiao/19-材料科学与工程-卓昊-考研-@中山大学.md)
 - [2023-08-02] [考研总结] [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md)
 - [2023-08-02] [考研总结] [19-动科-xzy-跨考（计算机）-@武汉理工大学](personal-summary/dwkj/19-动科-xzy-跨考-计算机-@武汉理工大学.md)
 - [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
@@ -39,8 +41,6 @@
 - [2022-07-06] [保研总结] [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)
 - [2022-07-04] [学习资源] [CS 学习资源](first-sight/study/CS学习资源.md)
 - [2022-07-04] [保研总结] [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
-- [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考客观题的一些感悟](https://zhuanlan.zhihu.com/p/45610719?utm_source=wechat_session&utm_medium=social&utm_oi=997200635032301568&utm_campaign=shareopn)
-- [2022-07-03] [法考总结] [15-法学-AxelAlmar-法考主观题的一些感悟](https://zhuanlan.zhihu.com/p/54068198)
 
 <!-- recent-update-end -->
 

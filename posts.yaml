@@ -360,6 +360,10 @@
       url: personal-summary/rdzw/README.md
       count: true
       links:
+        - title: 19-农学-付黎明-考研-@上海交通大学
+          url: personal-summary/rdzw/19-农学-付黎明-考研-@上海交通大学.md
+          date: "2023-08-06"
+          tag: 考研总结
     - title: 园艺学院
       url: personal-summary/yuanyi/README.md
       count: true
@@ -412,6 +416,10 @@
         - title: 19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析
           url: https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d
           date: "2022-10-31"
+          tag: 天大交换
+        - title: 21-数学与应用数学-Andmilde-天大交换
+          url: exchange/tju-exchange/21-数学与应用数学-Andmilde-天大交换.md
+          date: "2023-08-06"
           tag: 天大交换
     - title: 学期交流
       url: exchange/semester-exchange/README.md

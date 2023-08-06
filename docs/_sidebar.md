@@ -8,7 +8,7 @@
   - [学习(6)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
-- [**个人总结(49)**](personal-summary/README.md)
+- [**个人总结(50)**](personal-summary/README.md)
   - [计算机科学与技术学院(10)](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(13)](personal-summary/cse/README.md)
   - [信息与通信工程学院(5)](personal-summary/sice/README.md)
@@ -31,7 +31,7 @@
   - [机电工程学院](personal-summary/jidian/README.md)
   - [土木建筑工程学院](personal-summary/tujian/README.md)
   - [化学工程与技术学院](personal-summary/huaxue/README.md)
-  - [热带作物学院](personal-summary/rdzw/README.md)
+  - [热带作物学院(1)](personal-summary/rdzw/README.md)
   - [园艺学院](personal-summary/yuanyi/README.md)
   - [林学院](personal-summary/linxue/README.md)
   - [海洋学院](personal-summary/haiyang/README.md)
@@ -43,8 +43,8 @@
   - [体育学院](personal-summary/tyxy/README.md)
   - [药学院](personal-summary/yaoxue/README.md)
 
-- **国内外交流(1)**
-  - [天大交换(1)](exchange/tju-exchange/README.md)
+- **国内外交流(2)**
+  - [天大交换(2)](exchange/tju-exchange/README.md)
   - [学期交流](exchange/semester-exchange/README.md)
   - [暑校](exchange/summer-exchange/README.md)
   - [暑研](exchange/research-exchange/README.md)

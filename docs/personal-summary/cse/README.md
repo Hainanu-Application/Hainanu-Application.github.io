@@ -12,6 +12,7 @@
 - [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)
 - [18-信息安全-聂欣冉-考研-@whu](personal-summary/cse/18-信息安全-聂欣冉-考研-@WHU.md)
 - [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
+- [18-信息安全（密码学方向）-匿名-考研-@国科大杭高院](https://zhuanlan.zhihu.com/p/625418401)
 
 ### 就业总结
 - [18-信息安全-尹伊君-就业-@华软金盾](https://www.ljhyyj.ml/archives/2022-06-19-10-45-34)

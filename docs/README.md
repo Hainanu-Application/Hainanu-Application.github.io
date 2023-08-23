@@ -21,6 +21,12 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2023-08-23] [保研总结] [19-软件工程-DWY-保研-@天津大学.](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
+- [2023-08-23] [考研总结] [19-信息与计算科学-xsj-跨考应用统计专业-@fnu](personal-summary/lixue/19-信息与计算科学-xsj-跨考应用统计专业-@fnu.md)
+- [2023-08-23] [考研总结] [19-应用化学-郭鑫波-保研-@中科院长春应化所](personal-summary/lixue/19-应用化学-郭鑫波-保研-@中科院长春应化所.md)
+- [2023-08-23] [保研总结] [19-经济统计学-cwq-保研-@对外经济贸易大学](personal-summary/jingji/19-经济统计学-cwq-保研-@对外经济贸易大学.md)
+- [2023-08-23] [留学总结] [19-生态与环境学院-郭佳慧-留学-@UNC.](personal-summary/sthj/19-生态与环境学院-郭佳慧-留学-@UNC.md)
+- [2023-08-23] [考研总结] [19-英语-zls-跨考现当代文学-@scu.](personal-summary/mks/19-英语-zls-跨考现当代文学-@scu.md)
 - [2023-08-21] [考研总结] [18-信息安全（密码学方向）-匿名-考研-@国科大杭高院](https://zhuanlan.zhihu.com/p/625418401)
 - [2023-08-06] [考研总结] [19-农学-付黎明-考研-@上海交通大学](personal-summary/rdzw/19-农学-付黎明-考研-@上海交通大学.md)
 - [2023-08-06] [天大交换] [21-数学与应用数学-Andmilde-天大交换](exchange/tju-exchange/21-数学与应用数学-Andmilde-天大交换.md)
@@ -35,12 +41,6 @@
 - [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-31] [天大交换] [19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析](https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-25] [保研总结] [19-食品质量与安全-黎文凯-保研-@浙江大学](personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md)
-- [2022-10-24] [保研总结] [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md)
-- [2022-10-11] [CS 学习资源] [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
-- [2022-10-11] [保研总结] [19-电子信息工程-LS-保研-@UESTC](personal-summary/sice/19-电子信息工程-LS-保研-@UESTC.md)
-- [2022-10-10] [保研总结] [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
-- [2022-08-23] [保研总结] [18-信息安全（密码学方向）-xgg-保研-@zju](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
-- [2022-08-11] [学习资源] [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)
 
 <!-- recent-update-end -->
 

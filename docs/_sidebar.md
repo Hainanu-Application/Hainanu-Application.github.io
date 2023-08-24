@@ -8,7 +8,7 @@
   - [学习(6)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
-- [**个人总结(57)**](personal-summary/README.md)
+- [**个人总结(58)**](personal-summary/README.md)
   - [计算机科学与技术学院(11)](personal-summary/cs/README.md)
   - [网络空间安全学院（密码学院）(14)](personal-summary/cse/README.md)
   - [信息与通信工程学院(5)](personal-summary/sice/README.md)
@@ -26,7 +26,7 @@
   - [动物科技学院(1)](personal-summary/dwkj/README.md)
   - [马克思主义学院(1)](personal-summary/mks/README.md)
   - [人文学院](personal-summary/renwen/README.md)
-  - [生命科学学院](personal-summary/smkx/README.md)
+  - [生命科学学院(1)](personal-summary/smkx/README.md)
   - [生物医学工程学院](personal-summary/shengyi/README.md)
   - [机电工程学院](personal-summary/jidian/README.md)
   - [土木建筑工程学院](personal-summary/tujian/README.md)

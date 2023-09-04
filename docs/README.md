@@ -21,7 +21,6 @@
 ## 近期更新
 
 <!-- recent-update-start -->
-- [2023-09-04] [保研总结] [19 计科 csl 保研 SEU](https://blog.csdn.net/comscience/article/details/132132039)
 - [2023-08-24] [考研总结] [19-生物学-maker-考研-@深圳大学](personal-summary/smkx/19-生物学-maker-考研-@深圳大学.md)
 - [2023-08-23] [保研总结] [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
 - [2023-08-23] [考研总结] [19-信息与计算科学-xsj-跨考应用统计专业-@fnu](personal-summary/lixue/19-信息与计算科学-xsj-跨考应用统计专业-@fnu.md)
@@ -41,6 +40,7 @@
 - [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 - [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 - [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
+- [2022-10-31] [天大交换] [19-环境科学-无敌美少狗-“海南大学-天津大学”联合培养项目全解析](https://www.bilibili.com/video/BV18P4y1S7Jj/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 
 <!-- recent-update-end -->
 

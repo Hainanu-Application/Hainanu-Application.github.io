@@ -9,7 +9,8 @@
 - [18-网络工程-MRK-保研-@UCAS](personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md)
 - [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)
 - [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
-- [19-软件工程-DWY-保研-@天津大学.](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
+- [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
+- [19 计科 csl 保研 SEU](https://blog.csdn.net/comscience/article/details/132132039)
 
 ### 考研总结
 - [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)

@@ -101,9 +101,13 @@
           url: https://zhuanlan.zhihu.com/p/626397747
           date: "2023-05-18"
           tag: 考研总结
-        - title: 19-软件工程-DWY-保研-@天津大学.
+        - title: 19-软件工程-DWY-保研-@天津大学
           url: personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md
           date: "2023-08-23"
+          tag: 保研总结
+        - title: 19 计科 csl 保研 SEU
+          url: https://blog.csdn.net/comscience/article/details/132132039
+          date: "2023-09-04"
           tag: 保研总结
 
     - title: 网络空间安全学院（密码学院）

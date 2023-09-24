@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2023-09-17 | 计算机科学与技术学院 | [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md) |
 | 2023-08-24 | 生命科学学院 | [19-生物学-maker-考研-@深圳大学](personal-summary/smkx/19-生物学-maker-考研-@深圳大学.md) |
 | 2023-08-23 | 计算机科学与技术学院 | [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md) |
 | 2023-08-23 | 理学院 | [19-信息与计算科学-xsj-跨考应用统计专业-@fnu](personal-summary/lixue/19-信息与计算科学-xsj-跨考应用统计专业-@fnu.md) |

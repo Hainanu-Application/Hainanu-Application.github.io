@@ -11,6 +11,7 @@
 - [19-软件工程（NIIT）-Lily-保研-@NJUST](https://mp.weixin.qq.com/s/KH6gdpeT4ES3SN0K01Yh9A)
 - [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
 - [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md)
+- [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 
 ### 考研总结
 - [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)

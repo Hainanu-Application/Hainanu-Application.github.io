@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2024-1-3] [保研总结] [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 - [2023-09-17] [保研总结] [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md)
 - [2023-08-24] [考研总结] [19-生物学-maker-考研-@深圳大学](personal-summary/smkx/19-生物学-maker-考研-@深圳大学.md)
 - [2023-08-23] [保研总结] [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)
@@ -40,7 +41,6 @@
 - [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
 - [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 - [2022-10-31] [学习总结] [19-环境科学-无敌美少狗-高数满分攻略](https://www.bilibili.com/video/BV1Vm4y1P78x/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
-- [2022-10-31] [保研总结] [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d)
 
 <!-- recent-update-end -->
 

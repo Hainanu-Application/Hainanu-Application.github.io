@@ -21,7 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
-- [2024-1-3] [保研总结] [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
+- [2024-01-03] [保研总结] [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 - [2023-09-17] [保研总结] [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md)
 - [2023-08-24] [考研总结] [19-生物学-maker-考研-@深圳大学](personal-summary/smkx/19-生物学-maker-考研-@深圳大学.md)
 - [2023-08-23] [保研总结] [19-软件工程-DWY-保研-@天津大学](personal-summary/cs/19-软件工程-DWY-保研-@天津大学.md)

@@ -16,6 +16,7 @@
 ### 考研总结
 - [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
 - [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
+- [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346)
 
 ### 个人总结
 - [寻找我 面对我 成为我](https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#)

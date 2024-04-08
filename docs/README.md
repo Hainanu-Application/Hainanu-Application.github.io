@@ -21,6 +21,7 @@
 ## 近期更新
 
 <!-- recent-update-start -->
+- [2024-04-08] [考研总结] [20-信息安全（密码学方向）-匿名-考研-@HUST](personal-summary/cse/20-信息安全（密码学方向）-匿名-考研-@HUST.md)
 - [2024-03-28] [考研总结] [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346)
 - [2024-01-03] [保研总结] [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 - [2023-09-17] [保研总结] [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md)
@@ -40,7 +41,6 @@
 - [2023-08-02] [考研总结] [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md)
 - [2023-08-02] [考研总结] [19-动科-xzy-跨考（计算机）-@武汉理工大学](personal-summary/dwkj/19-动科-xzy-跨考-计算机-@武汉理工大学.md)
 - [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
-- [2023-04-05] [考研总结] [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md)
 
 <!-- recent-update-end -->
 

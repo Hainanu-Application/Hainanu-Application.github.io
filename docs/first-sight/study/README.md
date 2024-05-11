@@ -9,7 +9,7 @@
 
 <!-- recent-update-start -->
 ### 课程资源
-- [海南大学课程攻略](https://www.kdocs.cn/l/caAtZlyMyNY6)
+- [海南大学课程攻略-期末大学牲收容站](https://www.kdocs.cn/l/caAtZlyMyNY6)
 - [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)
 
 ### CS 学习资源

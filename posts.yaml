@@ -20,6 +20,14 @@
       url: first-sight/study/README.md
       count: true
       links:
+        - title: "海南大学课程攻略"
+          url: "https://www.kdocs.cn/l/caAtZlyMyNY6"
+          date: "2024-05-11"
+          tag: "课程资源"
+        - title: "海南大学课程攻略共享计划"
+          url: "https://www.bj-yan.top/hainanu-course-comments"
+          date: "2024-05-11"
+          tag: "课程资源"
         - title: "hai-AcWing算法学习计划"
           url: first-sight/study/hai-AcWing算法学习计划.md
           date: "2022-10-11"

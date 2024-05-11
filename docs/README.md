@@ -20,6 +20,9 @@
 
 ## 近期更新
 
+
+海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
+
 <!-- recent-update-start -->
 - [2024-04-08] [考研总结] [20-信息安全（密码学方向）-匿名-考研-@HUST](personal-summary/cse/20-信息安全（密码学方向）-匿名-考研-@HUST.md)
 - [2024-03-28] [考研总结] [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346)

@@ -24,6 +24,8 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
+- [2024-05-11] [课程资源] [海南大学课程攻略](https://www.kdocs.cn/l/caAtZlyMyNY6)
+- [2024-05-11] [课程资源] [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)
 - [2024-04-08] [考研总结] [20-信息安全（密码学方向）-匿名-考研-@HUST](personal-summary/cse/20-信息安全（密码学方向）-匿名-考研-@HUST.md)
 - [2024-03-28] [考研总结] [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346)
 - [2024-01-03] [保研总结] [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
@@ -42,8 +44,6 @@
 - [2023-08-03] [考研总结] [19-数学与应用数学-hzyh-（跨考+考公）-@（中国科学院大学+省考第二）](personal-summary/lixue/19-数学与应用数学-（跨考+考公）-@（中国科学院大学+省考第二）.md)
 - [2023-08-03] [考研总结] [19-材料科学与工程-卓昊-考研-@中山大学](personal-summary/cailiao/19-材料科学与工程-卓昊-考研-@中山大学.md)
 - [2023-08-02] [考研总结] [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md)
-- [2023-08-02] [考研总结] [19-动科-xzy-跨考（计算机）-@武汉理工大学](personal-summary/dwkj/19-动科-xzy-跨考-计算机-@武汉理工大学.md)
-- [2023-05-18] [考研总结] [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
 
 <!-- recent-update-end -->
 

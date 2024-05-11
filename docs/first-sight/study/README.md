@@ -8,6 +8,10 @@
 - 考取其他证书的经验例如驾照、教资等
 
 <!-- recent-update-start -->
+### 课程资源
+- [海南大学课程攻略](https://www.kdocs.cn/l/caAtZlyMyNY6)
+- [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)
+
 ### CS 学习资源
 - [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
 

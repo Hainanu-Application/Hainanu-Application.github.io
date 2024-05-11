@@ -21,6 +21,7 @@
 ## 近期更新
 
 海南大学课程攻略表-期末大学牲收容站 [**_传送门_**](https://www.kdocs.cn/l/caAtZlyMyNY6)
+
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->

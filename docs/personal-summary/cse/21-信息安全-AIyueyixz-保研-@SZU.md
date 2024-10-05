@@ -61,10 +61,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/school1.png" alt="Image 1" style="width:50%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/school1.png" alt="Image 1" style="width:50%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/school2.png" alt="Image 2" style="width:50%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/school2.png" alt="Image 2" style="width:50%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -107,10 +107,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/szu3.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/szu3.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/szu4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/szu4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -118,10 +118,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/szu1.png" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/szu1.png" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/szu2.png" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/szu2.png" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -141,10 +141,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/skd2.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/skd2.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/skd1.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/skd1.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -152,10 +152,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/skd3.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/skd3.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/skd4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/skd4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -169,10 +169,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/seu1.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/seu1.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/seu3.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/seu3.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -180,10 +180,10 @@
 <table>
   <tr>
     <td>
-      <img src="img/seu2.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/seu2.jpg" alt="Image 1" style="width:100%;object-fit=cover;">
     </td>
     <td>
-      <img src="img/seu4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
+      <img src="/personal-summary/cse/img/seu4.jpg" alt="Image 2" style="width:100%;object-fit=cover;">
     </td>
   </tr>
 </table>
@@ -210,6 +210,6 @@ QQ：1879687452
 
 欢迎来找我玩！！
 
-![](img/milk_dragon.gif)
+![](/personal-summary/cse/img/milk_dragon.gif)
 
 ​																										      20241001

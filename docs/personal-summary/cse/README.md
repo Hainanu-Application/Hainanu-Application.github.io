@@ -7,6 +7,7 @@
 - [18-信息安全-Aurore-保研-@BIT](personal-summary/cse/18-信息安全-Aurore-保研-@BIT.md)
 - [18-信息安全（密码学方向）-zgg-保研-@FDU](personal-summary/cse/18-信息安全（密码学方向）-zgg-保研-@fdu.md)
 - [18-信息安全（密码学方向）-xgg-保研-@zju](personal-summary/cse/18-信息安全（密码学方向）-xgg-保研-@zju.md)
+- [21-信息安全-AIyueyixz-保研-@SZU](personal-summary/cse/21-信息安全-AIyueyixz-保研-@SZU.md)
 
 ### 考研总结
 - [18-信息安全（密码学方向）-胡子姐姐-考研-@scu](personal-summary/cse/18-信息安全（密码学方向）-胡子姐姐-考研-@scu)

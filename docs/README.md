@@ -25,6 +25,7 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
+- [2024-10-01] [保研总结] [21-信息安全-AIyueyixz-保研-@SZU](personal-summary/cse/21-信息安全-AIyueyixz-保研-@SZU.md)
 - [2024-05-11] [课程资源] [海南大学课程攻略-期末大学牲收容站](https://www.kdocs.cn/l/caAtZlyMyNY6)
 - [2024-05-11] [课程资源] [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)
 - [2024-04-08] [考研总结] [20-信息安全（密码学方向）-匿名-考研-@HUST](personal-summary/cse/20-信息安全（密码学方向）-匿名-考研-@HUST.md)
@@ -44,7 +45,6 @@
 - [2023-08-03] [考研总结] [18-数学与应用数学-ly-跨考应用经济学专业-@北京工商大学](personal-summary/lixue/18-数学与应用数学-ly-跨考应用经济学专业-@北工商.md)
 - [2023-08-03] [考研总结] [19-数学与应用数学-hzyh-（跨考+考公）-@（中国科学院大学+省考第二）](personal-summary/lixue/19-数学与应用数学-（跨考+考公）-@（中国科学院大学+省考第二）.md)
 - [2023-08-03] [考研总结] [19-材料科学与工程-卓昊-考研-@中山大学](personal-summary/cailiao/19-材料科学与工程-卓昊-考研-@中山大学.md)
-- [2023-08-02] [考研总结] [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md)
 
 <!-- recent-update-end -->
 

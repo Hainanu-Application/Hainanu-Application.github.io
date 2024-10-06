@@ -125,6 +125,10 @@
           url: https://zhuanlan.zhihu.com/p/689514346
           date: "2024-03-28"
           tag: 考研总结
+        - title: 21-计算机科学与技术-BuG_17-保研-@UESTC
+          url: https://17bugs.github.io/2024/10/04/tuimian_exp/
+          date: "2024-10-06"
+          tag: 保研总结
 
     - title: 网络空间安全学院（密码学院）
       url: personal-summary/cse/README.md

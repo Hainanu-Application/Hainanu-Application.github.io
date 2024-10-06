@@ -25,6 +25,7 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
+- [2024-10-06] [保研总结] [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 - [2024-10-01] [保研总结] [21-信息安全-AIyueyixz-保研-@SZU](personal-summary/cse/21-信息安全-AIyueyixz-保研-@SZU.md)
 - [2024-05-11] [课程资源] [海南大学课程攻略-期末大学牲收容站](https://www.kdocs.cn/l/caAtZlyMyNY6)
 - [2024-05-11] [课程资源] [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)

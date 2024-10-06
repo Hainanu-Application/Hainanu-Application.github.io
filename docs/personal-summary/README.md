@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2024-10-06 | 计算机科学与技术学院 | [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/) |
 | 2024-10-01 | 网络空间安全学院（密码学院） | [21-信息安全-AIyueyixz-保研-@SZU](personal-summary/cse/21-信息安全-AIyueyixz-保研-@SZU.md) |
 | 2024-04-08 | 网络空间安全学院（密码学院） | [20-信息安全（密码学方向）-匿名-考研-@HUST](personal-summary/cse/20-信息安全（密码学方向）-匿名-考研-@HUST.md) |
 | 2024-03-28 | 计算机科学与技术学院 | [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346) |

@@ -13,6 +13,7 @@
 - [19-计算机科学与技术-codeslogan-保研-@东南大学](personal-summary/cs/19-计算机科学与技术-codeslogan-保研-@SEU.md)
 - [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 - [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/)
+- [21-计科-zzx-保研-@中山AI](personal-summary/cs/21-计科-zzx-保研-@中山AI.md)
 
 ### 考研总结
 - [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)

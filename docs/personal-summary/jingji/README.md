@@ -6,6 +6,7 @@
 
 ### 保研总结
 - [19-经济统计学-cwq-保研-@对外经济贸易大学](personal-summary/jingji/19-经济统计学-cwq-保研-@对外经济贸易大学.md)
+- [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
 
 
 <!-- recent-update-end -->

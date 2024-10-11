@@ -7,6 +7,7 @@
 
 ### 保研总结
 - [16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学](personal-summary/law/16-法学-管云彪-保研-“法学院绩点小贴士与保研想法”-@人民大学.md)
+- [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
 
 
 <!-- recent-update-end -->

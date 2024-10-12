@@ -150,10 +150,15 @@ def generate_readme(data):
     with open(readme_path, "r", encoding="utf-8") as f:
         readme_content = f.read()
     new_content = ""
+    last_item = ""
     for item in total_item:
-        new_content += (
-            f'- {get_markdown_url(item["title"], item["url"], date=item["date"], tag=item["tag"], space=True)}\n'
-        )
+        new_item = f'- {get_markdown_url(item["title"], item["url"], date=item["date"], tag=item["tag"], space=True)}\n'
+
+        if last_item == new_item:
+            continue
+        
+        new_content += new_item
+        last_item = new_item
         _count += 1
         if _count >= max_item_count:
             break

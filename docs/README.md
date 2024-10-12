@@ -26,7 +26,6 @@
 
 <!-- recent-update-start -->
 - [2024-10-11] [保研总结] [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
-- [2024-10-11] [保研总结] [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
 - [2024-10-07] [保研总结] [21-计科-zzx-保研-@中山AI](personal-summary/cs/21-计科-zzx-保研-@中山AI.md)
 - [2024-10-06] [保研总结] [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 - [2024-10-01] [保研总结] [21-信息安全-AIyueyixz-保研-@SZU](personal-summary/cse/21-信息安全-AIyueyixz-保研-@SZU.md)

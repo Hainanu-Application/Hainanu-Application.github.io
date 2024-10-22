@@ -8,12 +8,13 @@
 - 考取其他证书的经验例如驾照、教资等
 
 <!-- recent-update-start -->
+### CS 学习资源
+- [互联网后端秋招经验分享](https://github.com/peng-yq/the-way-to-find-a-job)
+- [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
+
 ### 课程资源
 - [海南大学课程攻略-期末大学牲收容站](https://www.kdocs.cn/l/caAtZlyMyNY6)
 - [海南大学课程攻略共享计划](https://www.bj-yan.top/hainanu-course-comments)
-
-### CS 学习资源
-- [hai-AcWing算法学习计划](first-sight/study/hai-AcWing算法学习计划.md)
 
 ### 学习资源
 - [ACCA卓越班（2022年秋季）联合招收海南大学在校学生](https://hb.hainanu.edu.cn/hiditd/info/1128/1323.htm)

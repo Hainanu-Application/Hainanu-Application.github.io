@@ -3,9 +3,9 @@
   - [关于我们](preface/about/README.md)
   - [关于投稿](about-contribution.md)
 
-- **初入海大(9)**
+- **初入海大(10)**
   - [欢迎来到海南大学](welcome-to-hnu.md)
-  - [学习(8)](first-sight/study/README.md)
+  - [学习(9)](first-sight/study/README.md)
   - [生活(1)](first-sight/life/README.md)
 
 - [**个人总结(67)**](personal-summary/README.md)

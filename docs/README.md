@@ -25,6 +25,7 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
+- [2024-10-22] [CS 学习资源] [互联网后端秋招经验分享](https://github.com/peng-yq/the-way-to-find-a-job)
 - [2024-10-11] [保研总结] [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
 - [2024-10-07] [保研总结] [21-计科-zzx-保研-@中山AI](personal-summary/cs/21-计科-zzx-保研-@中山AI.md)
 - [2024-10-06] [保研总结] [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/)
@@ -44,7 +45,6 @@
 - [2023-08-23] [考研总结] [19-英语-zls-跨考现当代文学-@scu](personal-summary/mks/19-英语-zls-跨考现当代文学-@scu.md)
 - [2023-08-21] [考研总结] [18-信息安全（密码学方向）-匿名-考研-@国科大杭高院](https://zhuanlan.zhihu.com/p/625418401)
 - [2023-08-06] [考研总结] [19-农学-付黎明-考研-@上海交通大学](personal-summary/rdzw/19-农学-付黎明-考研-@上海交通大学.md)
-- [2023-08-06] [天大交换] [21-数学与应用数学-Andmilde-天大交换](exchange/tju-exchange/21-数学与应用数学-Andmilde-天大交换.md)
 
 <!-- recent-update-end -->
 

@@ -44,6 +44,7 @@
 - [2023-08-23] [考研总结] [19-英语-zls-跨考现当代文学-@scu](personal-summary/mks/19-英语-zls-跨考现当代文学-@scu.md)
 - [2023-08-21] [考研总结] [18-信息安全（密码学方向）-匿名-考研-@国科大杭高院](https://zhuanlan.zhihu.com/p/625418401)
 - [2023-08-06] [考研总结] [19-农学-付黎明-考研-@上海交通大学](personal-summary/rdzw/19-农学-付黎明-考研-@上海交通大学.md)
+- [2023-08-06] [天大交换] [21-数学与应用数学-Andmilde-天大交换](exchange/tju-exchange/21-数学与应用数学-Andmilde-天大交换.md)
 
 <!-- recent-update-end -->
 

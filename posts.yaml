@@ -20,6 +20,10 @@
       url: first-sight/study/README.md
       count: true
       links:
+        - title: "互联网后端秋招经验分享"
+          url: "https://github.com/peng-yq/the-way-to-find-a-job"
+          date: "2024-10-22"
+          tag: "CS 学习资源"
         - title: "海南大学课程攻略-期末大学牲收容站"
           url: "https://www.kdocs.cn/l/caAtZlyMyNY6"
           date: "2024-05-11"

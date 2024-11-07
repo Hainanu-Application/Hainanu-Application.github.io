@@ -27,7 +27,6 @@
 | 2023-08-02 | 理学院 | [19-数学与应用数学-zd-考研-@西南交通大学](personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md) |
 | 2023-08-02 | 动物科技学院 | [19-动科-xzy-跨考（计算机）-@武汉理工大学](personal-summary/dwkj/19-动科-xzy-跨考-计算机-@武汉理工大学.md) |
 | 2023-05-18 | 计算机科学与技术学院 | [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747) |
-| 2023-04-05 | 网络空间安全学院（密码学院） | [19-信息安全（密码学方向）-plucky-考研-@HUST](personal-summary/cse/19-信息安全（密码学方向）-plucky-考研-@HUST.md) |
 | 2022-10-31 | 生态与环境学院 | [19-环境科学-无敌美少狗-保研@北京大学](https://www.bilibili.com/video/BV1814y1j78A/?share_source=copy_web&vd_source=1d24b8668d9a982639b17fbd66e7748d) |
 | 2022-10-25 | 食品科学与工程学院 | [19-食品质量与安全-黎文凯-保研-@浙江大学](personal-summary/shipin/19-食品质量与安全-黎文凯-保研-@浙江大学.md) |
 | 2022-10-24 | 外国语学院 | [19-英语-F91fan-保研@CCNU](personal-summary/waiguoyu/19-英语-F91fan-保研@CCNU.md) |

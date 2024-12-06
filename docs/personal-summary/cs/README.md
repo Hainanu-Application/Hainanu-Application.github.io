@@ -14,12 +14,13 @@
 - [20-计算机科学与技术-identialking-保研-@东南大学](https://zhuanlan.zhihu.com/p/671324341)
 - [21-计算机科学与技术-BuG_17-保研-@UESTC](https://17bugs.github.io/2024/10/04/tuimian_exp/)
 - [21-计科-zzx-保研-@中山AI](personal-summary/cs/21-计科-zzx-保研-@中山AI.md)
-
+- [21-计科-xwz-保研-@UESTC](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md)
 ### 考研总结
 - [18-软件工程（NIIT）-LYZ-考研-@哈尔滨工业大学(深圳)](https://zhuanlan.zhihu.com/p/498009692?utm_source=wechat_session&utm_medium=social&utm_oi=993920704961724416&utm_content=group3_article&utm_campaign=shareopn)
 - [19-计算机科学与技术-zjh-考研-@中南大学](https://zhuanlan.zhihu.com/p/626397747)
 - [19-软件工程-abc-考研-@中国科学技术大学](https://zhuanlan.zhihu.com/p/689514346)
-
+### 找工作总结
+- [21-计科-xwz-找工作-@Alibaba](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md)
 ### 个人总结
 - [寻找我 面对我 成为我](https://www.yuque.com/docs/share/d32e755d-0a33-45a0-aadc-637da0d564e9?#)
 

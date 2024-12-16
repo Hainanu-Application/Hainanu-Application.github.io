@@ -3,6 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
+| 2024-12-06 | 计算机科学与技术学院 | [21-计科-xwz-找工作和保研-@Alibaba@UESTC](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md) |
 | 2024-10-11 | 法学院 | [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md) |
 | 2024-10-11 | 经济学院 | [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md) |
 | 2024-10-07 | 计算机科学与技术学院 | [21-计科-zzx-保研-@中山AI](personal-summary/cs/21-计科-zzx-保研-@中山AI.md) |

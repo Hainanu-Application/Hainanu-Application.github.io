@@ -4,7 +4,7 @@
 ### 保研总结
 - [18-计算机科学与技术-HWH-保研-@uestc](personal-summary/cs/18-计算机科学与技术-HWH-保研-@uestc.md)
 - [18-网络工程-PYQ-保研-@IIE(CAS)](personal-summary/cs/18-网络工程-PYQ-保研-@IIE(CAS).md)
-- [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/misc-man-man-qiu-xue-lu/)
+- [18-软件工程（NIIT）-YBJ-保研-@ICT(CAS)](https://blog.bj-yan.top/p/journey-man-man-qiu-xue-lu/)
 - [18-计算机科学与技术-DYC-保研-@USTC](personal-summary/cs/18-计算机科学与技术-DYC-保研-@USTC.md)
 - [18-网络工程-MRK-保研-@UCAS](personal-summary/cs/18-网络工程-MRK-保研-@UCAS.md)
 - [16-软件工程-李明-保研-@厦门大学](personal-summary/cs/16-软件工程-李明-保研-@厦门大学.md)

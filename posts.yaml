@@ -295,6 +295,10 @@
       url: personal-summary/lixue/README.md
       count: true
       links:
+        - title: 21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目
+          url: personal-summary/lixue/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md
+          date: "2026-06-14"
+          tag: 出国
         - title: 19-数学与应用数学-zd-考研-@西南交通大学
           url: personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md
           date: "2023-08-02"

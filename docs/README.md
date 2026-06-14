@@ -26,6 +26,7 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
+- [2026-06-14] [出国] [21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目](personal-summary/lixue/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md)
 - [2024-12-06] [保研总结] [21-计科-xwz-找工作和保研-@Alibaba@UESTC](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md)
 - [2024-10-22] [CS 学习资源] [互联网后端秋招经验分享](https://github.com/peng-yq/the-way-to-find-a-job)
 - [2024-10-11] [保研总结] [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)
@@ -45,7 +46,6 @@
 - [2023-08-23] [保研总结] [19-经济统计学-cwq-保研-@对外经济贸易大学](personal-summary/jingji/19-经济统计学-cwq-保研-@对外经济贸易大学.md)
 - [2023-08-23] [留学总结] [19-生态与环境学院-郭佳慧-留学-@UNC](personal-summary/sthj/19-生态与环境学院-郭佳慧-留学-@UNC.md)
 - [2023-08-23] [考研总结] [19-英语-zls-跨考现当代文学-@scu](personal-summary/mks/19-英语-zls-跨考现当代文学-@scu.md)
-- [2023-08-21] [考研总结] [18-信息安全（密码学方向）-匿名-考研-@国科大杭高院](https://zhuanlan.zhihu.com/p/625418401)
 
 <!-- recent-update-end -->
 

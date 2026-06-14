@@ -26,7 +26,7 @@
 海南大学课程资源及攻略 [**_传送门_**](first-sight/study/README)
 
 <!-- recent-update-start -->
-- [2026-06-14] [出国] [21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目](docs/personal-summary/lixue/21- 应用物理- 张炎-出国-@德国慕尼黑QST硕士项目 (2).md)
+- [2026-06-14] [出国] [21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目](personal-summary/lixue/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md)
 - [2024-12-06] [保研总结] [21-计科-xwz-找工作和保研-@Alibaba@UESTC](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md)
 - [2024-10-22] [CS 学习资源] [互联网后端秋招经验分享](https://github.com/peng-yq/the-way-to-find-a-job)
 - [2024-10-11] [保研总结] [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md)

@@ -3,7 +3,7 @@
 <!-- recent-update-start -->
 | 日期 | 学院 | 标题 |
 | ---- | ---- | ---- |
-| 2026-06-14 | 理学院 | [21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目](docs/personal-summary/lixue/21- 应用物理- 张炎-出国-@德国慕尼黑QST硕士项目 (2).md) |
+| 2026-06-14 | 理学院 | [21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目](personal-summary/lixue/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md) |
 | 2024-12-06 | 计算机科学与技术学院 | [21-计科-xwz-找工作和保研-@Alibaba@UESTC](personal-summary/cs/21-计科-xwz-找工作和保研-@Alibaba@UESTC.md) |
 | 2024-10-11 | 法学院 | [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md) |
 | 2024-10-11 | 经济学院 | [21-金融-lyls-跨保-@西南政法](personal-summary/jingji/21-金融-lyls-跨保-@西南政法.md) |

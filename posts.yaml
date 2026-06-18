@@ -291,32 +291,42 @@
           date: "2024-10-11"
           tag: 保研总结
 
-    - title: 理学院
-      url: personal-summary/lixue/README.md
+    - title: 数学与统计学院
+      url: personal-summary/math/README.md
       count: true
       links:
-        - title: 21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目
-          url: personal-summary/lixue/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md
-          date: "2026-06-14"
-          tag: 出国
-        - title: 19-数学与应用数学-zd-考研-@西南交通大学
-          url: personal-summary/lixue/19-应数-zd-考研-@西南交通大学.md
-          date: "2023-08-02"
-          tag: 考研总结
         - title: 18-数学与应用数学-ly-跨考应用经济学专业-@北京工商大学
-          url: personal-summary/lixue/18-数学与应用数学-ly-跨考应用经济学专业-@北工商.md
+          url: personal-summary/math/18-数学与应用数学-ly-跨考应用经济学专业-@北工商.md
           date: "2023-08-03"
           tag: 考研总结
+        - title: 19-应数-zd-考研-@西南交通大学
+          url: personal-summary/math/19-应数-zd-考研-@西南交通大学.md
+          date: "2023-08-02"
+          tag: 考研总结
         - title: 19-数学与应用数学-hzyh-（跨考+考公）-@（中国科学院大学+省考第二）
-          url: personal-summary/lixue/19-数学与应用数学-（跨考+考公）-@（中国科学院大学+省考第二）.md
+          url: personal-summary/math/19-数学与应用数学-（跨考+考公）-@（中国科学院大学+省考第二）.md
           date: "2023-08-03"
           tag: 考研总结
         - title: 19-信息与计算科学-xsj-跨考应用统计专业-@fnu
-          url: personal-summary/lixue/19-信息与计算科学-xsj-跨考应用统计专业-@fnu.md
+          url: personal-summary/math/19-信息与计算科学-xsj-跨考应用统计专业-@fnu.md
           date: "2023-08-23"
           tag: 考研总结
-        - title: 19-应用化学-郭鑫波-考研-@中科院长春应化所
-          url: personal-summary/lixue/19-应用化学-郭鑫波-保研-@中科院长春应化所.md
+
+    - title: 物理与光电工程学院
+      url: personal-summary/physics/README.md
+      count: true
+      links:
+        - title: 21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目
+          url: personal-summary/physics/21-应用物理-张炎-出国-@德国慕尼黑QST硕士项目.md
+          date: "2026-06-14"
+          tag: 出国
+
+    - title: 化学与化工学院
+      url: personal-summary/chemistry/README.md
+      count: true
+      links:
+        - title: 19-应用化学-郭鑫波-保研-@中科院长春应化所
+          url: personal-summary/chemistry/19-应用化学-郭鑫波-保研-@中科院长春应化所.md
           date: "2023-08-23"
           tag: 考研总结
 
